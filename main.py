@@ -1,6 +1,26 @@
 import os
 from concurrency_manager import ConcurrencyManager
 from mongodb_handler import MongoDBHandler
+import logging
+
+# Configure logging
+log_file_path = 'Y:/AI_Internship_Task_Wasserstoff/logs/process.log'
+os.makedirs(os.path.dirname(log_file_path), exist_ok=True)  # Create directory if it doesn't exist
+
+logging.basicConfig(
+    filename=log_file_path,
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
+def log_info(message):
+    logging.info(message)
+    print(message)  # Print to console as well
+
+def log_error(message):
+    logging.error(message)
+    print(message)  # Print to console as well
+
 
 def main():
     # Define paths
@@ -22,7 +42,7 @@ def main():
     # Save results to MongoDB
     for result in results:
         if result is not None:  # Ensure result is valid
-            mongo_handler.insert_document(result)
+            mongo_handler.insert_summary(result)
 
     print("All PDFs processed and results saved to MongoDB.")
 
