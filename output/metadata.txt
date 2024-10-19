@@ -1,0 +1,1 @@
+{'file_name': 'pdf3.pdf', 'file_path': 'Y:/AI_Internship_Task_Wasserstoff/dataset\\pdf3.pdf', 'file_size': 2413611, 'processed_time': '2024-10-19 22:38:30'}

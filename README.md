@@ -20,18 +20,18 @@ This project implements a dynamic pipeline to process multiple PDF documents, ge
 
 ```bash
 /project_root
-    ├── /venv                 # Virtual environment
-    ├── /tests                # Unit tests for individual modules
-    ├── /data                 # Sample PDFs for testing
-    │      ├── sample_short.pdf
-    │      ├── sample_medium.pdf
-    │      └── sample_long.pdf
-    ├── main.py               # Entry point of the pipeline
-    ├── pdf_processor.py      # Functions for parsing PDF content
-    ├── text_processing.py    # Functions for summarizing and extracting keywords
-    ├── mongodb_handler.py    # Functions for interacting with MongoDB
-    ├── concurrency_manager.py# Manages parallel processing
-    ├── utils.py              # Utility functions (logging, error handling)
-    ├── config.py             # Configuration settings (MongoDB, file paths, etc.)
-    ├── requirements.txt      # List of dependencies
-    └── README.md             # Documentation
+    ├── /venv                                  # Virtual environment
+    ├── /tests                                 # Unit tests for individual modules
+    ├── /dataset                                  # Sample PDFs for testing
+    │       ├── file1.pdf
+    │       ├── file2.pdf
+    │       └── ...
+    ├── main.py                                # Entry point of the pipeline
+    ├── pdf_processor.py                       # Functions for parsing PDF content
+    ├── text_processing.py                     # Functions for summarizing and extracting keywords
+    ├── mongodb_handler.py                     # Functions for interacting with MongoDB
+    ├── concurrency_manager.py                 # Manages parallel processing
+    ├── utils.py                               # Utility functions (logging, error handling)
+    ├── config.py                              # Configuration settings (MongoDB, file paths, etc.)
+    ├── requirements.txt                       # List of dependencies
+    └── README.md                              # Documentation
