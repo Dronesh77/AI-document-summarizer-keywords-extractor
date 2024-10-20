@@ -84,6 +84,7 @@ def process_pdfs(directory_path, output_dir):
     :param output_dir: Path to the directory where results will be stored.
     """
     log_info("Starting PDF processing...")
+    print("Process PDFs")
 
     # Extract text from all PDFs in the directory
     process_pdf_directory(directory_path, output_dir)
@@ -95,13 +96,13 @@ def process_pdfs(directory_path, output_dir):
         with open(metadata_output_file, 'w', encoding='utf-8') as f:
             for meta in metadata:
                 f.write(f"{meta}\n")
-        log_info(f"Saved PDF metadata to {metadata_output_file}.")
+        print(f"Saved PDF metadata to {metadata_output_file}.")
 
     log_info("PDF processing completed.")
 
-# Example usage
-if __name__ == "__main__":
-    pdf_directory = "Y:/AI Internship Task Wasserstoff/dataset"  # Path to your PDF files
-    output_directory = "Y:/AI Internship Task Wasserstoff/output"  # Define where to save outputs
+# # Example usage
+# if __name__ == "__main__":
+#     pdf_directory = "Y:/AI Internship Task Wasserstoff/dataset"  # Path to your PDF files
+#     output_directory = "Y:/AI Internship Task Wasserstoff/output"  # Define where to save outputs
 
-    process_pdfs(pdf_directory, output_directory)
+#     process_pdfs(pdf_directory, output_directory)
