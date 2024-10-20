@@ -19,12 +19,18 @@ This project implements a dynamic pipeline to process multiple PDF documents, ge
 To run this project, you will need:
 
 - Python: Version 3.7 or higher
-- Libraries: Install the following Python packages:
-- PyPDF2
-- spaCy
-- scikit-learn
-- numpy
-- unittest (comes pre-installed with Python)
+  - Libraries: Install the following Python packages:
+    - pymongo==4.3.3
+    - spacy==3.5.3
+    - requests==2.31.0
+    - unittest (comes pre-installed with Python)
+    - heapq
+    - datetime
+    - nltk
+    - PyPDF2
+    - scikit-learn
+    - pytz
+
 
 ## Installation Steps
 
@@ -80,53 +86,53 @@ To run this project, you will need:
 
 # Explanation of the silution
 
-## PDFProcessor Class
-The PDFProcessor class is responsible for handling PDF files. It has methods for extracting text and metadata from a PDF document. It uses the PyPDF2 library to read PDF files.
+## PDF Text Extraction (pdf_processor.py)
+This module uses the PyPDF2 library to extract raw text from PDF documents. It provides the following method:
 
-### Methods:
-- extract_text(pdf_file): Extracts the text from the specified PDF file.
-- process_pdf(pdf_file): Processes the PDF file to extract both text and metadata.
+- extract_text_from_pdf(pdf_file):
+  - Takes the file path of a PDF and extracts text from all its pages.
+  - Returns the extracted text as a string.
 
-### TextProcessor Functions
-The text_processor.py module contains functions for cleaning and processing text.
+## Text Processing (text_processor.py)
+This module contains text processing functionalities:
 
 - clean_text(text):
 
-   - Cleans the input text by removing stopwords, punctuation, and digits using spaCy.
-
+  - Cleans the input text by removing stopwords, punctuation, and digits using spaCy's NLP model. It returns the cleaned text as a string.
 - summarize_text(text, max_sentences=3):
 
-  - Summarizes the input text by extracting key sentences based on word frequency. It returns a summary with a maximum number of sentences specified by the user.
-
+  - Summarizes the input text by selecting the most relevant sentences based on word frequency. The maximum number of sentences in the summary can be adjusted via the max_sentences parameter.
 - extract_keywords_tfidf(corpus, text, max_keywords=10):
 
-  - Extracts keywords from a given text using the TF-IDF method, leveraging a corpus of documents for context.
+  - Extracts keywords from the provided text using the TF-IDF method. It compares the text against a given corpus and returns a list of the most relevant keywords, with the number controlled by the max_keywords parameter.
 
 ### Unit Testing
-Unit tests are included in the test_pdf_processor.py and test_text_processor.py files to ensure the correctness of the implemented methods. The tests check for:
+The project includes unit tests to verify the correctness of the text extraction and processing functionalities.
 
-- Text extraction functionality
-- Text processing and summarization
-- Keyword extraction accuracy
+- test_pdf_processor.py:
+  - Tests the functionality of the PDF text extraction.
+- test_text_processor.py:
+  - Tests tokenization, entity recognition, and text preprocessing.
 
 
 ## Example Usage
 To use the PDF Text Processor in your own application, you can instantiate the PDFProcessor and TextProcessor classes and call their methods as follows:
 
 ``` bash
-from pdf_processor import PDFProcessor
+from pdf_processor import extract_text_from_pdf
 from text_processor import summarize_text, extract_keywords_tfidf
 
-# Create an instance of PDFProcessor
-processor = PDFProcessor()
+# Path to your PDF file
+pdf_file = "path_to_your_pdf_file.pdf"
 
-# Extract text from a PDF file
-text = processor.extract_text('path_to_your_pdf_file.pdf')
+# Extract text from the PDF
+text = extract_text_from_pdf(pdf_file)
 
 # Summarize the extracted text
 summary = summarize_text(text)
 
-# Extract keywords from the text
+# Extract keywords using a dummy corpus for TF-IDF
+corpus = ["some dummy text document", "another document for tfidf"]
 keywords = extract_keywords_tfidf(corpus, text)
 
 print(f"Summary: {summary}")
