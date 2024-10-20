@@ -36,7 +36,7 @@ To run this project, you will need:
 
 1. Clone the repository
 ```bash
-    git clone <repository_url>
+    git clone https://github.com/Dronesh77/dronesh-magare-wasserstoff-AiInternTask.git
     cd pdf-text-processor
 ```
 
