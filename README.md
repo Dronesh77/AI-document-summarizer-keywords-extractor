@@ -29,28 +29,31 @@ To run this project, you will need:
 ## Installation Steps
 
 1. Clone the repository
-
+```bash
     git clone <repository_url>
     cd pdf-text-processor
+```
 
 2. Create a Virtual Environment (optional but recommended):
-
+```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
 3. Install Required Packages:
-
+```bash
     pip install PyPDF2 spacy scikit-learn numpy
+```
 
 4. Download the spaCy English Language Model:
-
+```bash
     python -m spacy download en_core_web_sm
-
+```
 5. Run the Application: You can test the application by executing the test scripts:
-
+```bash
     python test_pdf_processor.py
     python test_text_processor.py
-
+```
 ## Project Structure
 
 ```bash
