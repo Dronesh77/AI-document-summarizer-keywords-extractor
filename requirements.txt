@@ -8,3 +8,4 @@ nltk
 PyPDF2
 scikit-learn
 pytz
+streamlit

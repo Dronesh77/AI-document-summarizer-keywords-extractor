@@ -11,7 +11,7 @@ class MongoDBHandler:
         self.db = self.client[db_name]
         self.collection = self.db[collection_name]
 
-    def insert_summary_with_keywords(self, summary, keywords, file_name):
+    def insert_summary_with_keywords(self, summary, keywords, file_name, metadata):
         try:
             #Adjust time zone and format
             ist_timezone = pytz.timezone('Asia/Kolkata')
@@ -22,7 +22,8 @@ class MongoDBHandler:
                 "summary": summary,
                 "keywords": keywords,
                 "created_at": formatted_ist_time,
-                "file_name":file_name
+                "file_name":file_name,
+                "metadata":metadata
             }
             result = self.collection.insert_one(summary_data)
             return str(result.inserted_id)

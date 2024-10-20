@@ -1,7 +1,7 @@
 import os
 from concurrency_manager import ConcurrencyManager
 import logging
-
+import streamlit as st
 
 # Configure logging
 log_file_path = 'Y:/AI_Internship_Task_Wasserstoff/logs/process.log'
@@ -39,11 +39,11 @@ def main():
     for result in results:
         if result is not None:  # Ensure result is valid
             pdf_file = result['filename']
-            summary = result['summary']
             keywords = result['keywords']
             summary_id = result['mongodb_id']
+            metadata = result['metadata']
 
-            print(f"Pdf File : {pdf_file}\nsummary : {summary}\nkeywords : {keywords}\nID : {summary_id}")
+            print(f"Pdf File : {pdf_file}\nkeywords : {keywords}\nID : {summary_id}\nmetadata : {metadata}")
 
 if __name__ == "__main__":
     main()

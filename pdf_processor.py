@@ -56,50 +56,6 @@ def process_pdf_directory(directory_path, output_dir):
         else:
             log_info(f"Skipping non-PDF file: {file_path}")
 
-# Function to get metadata from a directory of PDFs
-def get_pdf_metadata(directory_path):
-    """
-    Retrieves metadata from all PDFs in a directory.
-    :param directory_path: Directory containing PDF files.
-    :return: List of dictionaries with metadata.
-    """
-    metadata_list = []
-
-    for filename in os.listdir(directory_path):
-        file_path = os.path.join(directory_path, filename)
-        if is_pdf(file_path):
-            metadata = get_file_metadata(file_path)
-            if metadata:
-                metadata_list.append(metadata)
-        else:
-            log_info(f"Skipping non-PDF file: {file_path}")
-
-    return metadata_list
-
-# Main processing function
-def process_pdfs(directory_path, output_dir):
-    """
-    Processes PDFs by extracting text and saving metadata.
-    :param directory_path: Path to the directory containing PDFs.
-    :param output_dir: Path to the directory where results will be stored.
-    """
-    log_info("Starting PDF processing...")
-    print("Process PDFs")
-
-    # Extract text from all PDFs in the directory
-    process_pdf_directory(directory_path, output_dir)
-
-    # Get metadata from all PDFs
-    metadata = get_pdf_metadata(directory_path)
-    if metadata:
-        metadata_output_file = os.path.join(output_dir, "metadata.txt")
-        with open(metadata_output_file, 'w', encoding='utf-8') as f:
-            for meta in metadata:
-                f.write(f"{meta}\n")
-        print(f"Saved PDF metadata to {metadata_output_file}.")
-
-    log_info("PDF processing completed.")
-
 # # Example usage
 # if __name__ == "__main__":
 #     pdf_directory = "Y:/AI Internship Task Wasserstoff/dataset"  # Path to your PDF files

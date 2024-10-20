@@ -7,6 +7,7 @@ from nltk.tokenize import sent_tokenize
 import os
 import logging
 import traceback
+import utils
 
 
 nltk.download('punkt_tab')
@@ -44,14 +45,18 @@ class ConcurrencyManager:
                     summary = text_processor.summarize_text(extracted_text)
                     keywords = text_processor.extract_keywords_tfidf(corpus,extracted_text)
 
-                    summary_id = db_handler.insert_summary_with_keywords(summary, keywords, pdf_file)
+                    metadata = utils.get_file_metadata(pdf_path)
+
+                    summary_id = db_handler.insert_summary_with_keywords(summary, keywords, pdf_file,metadata)
+
 
                     # Return the summary (instead of saving the full text)
                     return {
                         "filename": pdf_file,
                         "summary": summary,
                         "keywords":keywords,
-                        "mongodb_id":summary_id
+                        "mongodb_id":summary_id,
+                        "metadata":metadata
                     }
                 
                 else:

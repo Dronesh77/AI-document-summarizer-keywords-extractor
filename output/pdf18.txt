@@ -1,0 +1,1224 @@
+THEPREVENTION OFMONEY-LAUNDERING
+(MAINTENANCE OFRECORDS)
+RULES, 20051
+Inexercise ofthepowersconferred bysub-section (1)readwithclause(h),clause
+(i),clause(j)andclause(k)ofsub-section (2)ofsection73ofthePrevention ofMoney-
+laundering Act,2002(15of2003)theCentral Government inconsultation withthe
+Reserve BankofIndia,herebymakesthefollowing rulesfor.maintenance ofrecordsof
+thenatureandvalueoftransactions, theprocedure andmanner ofmaintaining andtime
+forfurnishing ofinformation andverification ofrecordsoftheidentity oftheclientsof
+thebanking companies, financial institutions andintermediaries, namely:-
+1.Shorttitleandcommencement.-(l) Theserulesmaybecalledthe
+2[Prevention ofMoney-laundering (Maintenance ofRecords) Rules],2005.
+(2)Theyshallcomeintoforceonthedate"oftheirpublication intheOfficial
+Gazette.
+2.Definitions.-(l) Intheserules,unlessthecontextotherwise requires,-
+(a)"Act"means thePrevention ofMoney-laundering Act,2002
+(15of2003);
+4[(aa)"Central KYCRecordsRegistry" meansareporting entity,substantially
+ownedandcontrolled bytheCentralGovernment, andauthorised
+bythatGovernment through anotification intheOfficialGazetteto
+receive,store,safeguard andretrievetheKYCrecordsindigitalform
+ofaclientasreferred toinclause(ha)insuchmannerandtoperform
+suchotherfunctions asmayberequired undertheserules;]
+5[(aaa) "Aadhaar number" meansanidentification number asdefinedunder
+sub-section (a)ofsection2oftheAadhaar (Targeted Delivery of
+Financial andOtherSubsidies, Benefits andServices) Act,2016;]
+5[(aab) "authentication" meanstheprocessasdefinedundersub-section (c)
+ofsection2oftheAadhaar (Targeted Delivery ofFinancial andOther
+Subsidies, Benefits andServices) Act,2016;]
+5[(aac)"Resident" meansanindividual asdefinedundersub-section (v)of
+section2oftheAadhaar (Targeted Delivery ofFinancial andOther
+Subsidies, Benefits andServices) Act,2016;]
+1.VideG.5.R.444(E),dated1stJuly,2005,published intheGazette ofIndia,Extra.,Pt.II,
+Sec.3(i),dated1stJuly,2005.
+2.Subs.byG.S.R.481(E), dated24thJune,2011,for"Prevention ofMoney-laundering
+(Maintenance ofRecords oftheNatureandValueofTransactions, theProcedure andManner
+ofMaintaining andTimeforFurnishing Information andVerification andMaintenance of
+Records oftheIdentity oftheClientsoftheBanking Companies, Financial Institutions and
+Intermediaries) Rules"(w.e.f.24-6-2011). .
+3.Cameintoforceon1-7-2005.
+4.Ins.byG.5.R.544(E),dated7thJuly,2015(w.e.f.7-7-2015).
+5.Ins.byG.5.R.538(E),dated1stJune,2017(w.e.f.1-6-2017).
+74
+ThePrevention ofMoney-laundering (Maintenance ofRecords) 75
+Rules,2005
+l[(aad) "identity information" meanstheinformation asdefined insub-
+section(n)ofsection2oftheAadhaar (Targeted Delivery ofFinancial
+andOtherSubsidies, Benefits andServices) Act,2016;]
+l[(aae)"e-KYCauthentication facility" meansanauthentication facilityas
+definedinAadhaar (Authentication) Regulations, 2016;]
+l[(aaf)"Yes/No authentication facility" meansanauthentication facilityas
+definedinAadhaar (Authentication) Regulations, 2016;]
+2[(b)"clientduediligence" meansduediligence carriedoutonaclient
+referred toinclause(ha)ofsub-section (1)ofsection2oftheAct;]
+3[(ba)"Designated Director" meansapersondesignated bythereporting
+entitytoensureoverallcompliance withtheobligations imposed
+underChapter IVoftheActandtheRulesandincludes-
+(i)theManaging Director orawhole-time Director dulyauthorized
+bytheBoardofDirectors ifthereporting entityisacompany,
+(ii)themanaging partner ifthereporting entryisapartnership
+firm,
+(iii)theproprietor ifthereporting entityisaproprietorship
+concern,
+(iv)themanaging trusteeifthereporting entityisatrust,
+(v)apersonorindividual, asthecasemaybe,whocontrols and
+manages theaffairsofthereporting entityifthereporting entity
+isanunincorporated association orabodyofindividuals, and
+(vi)suchotherpersonorclassofpersons asmaybenotified bythe
+Government ifthereporting entitydoesnotfallinanyofthe
+categories above. ,
+Explanation.-For thepurpose ofthisclause,theterms"Managing
+Director" and"Whole-time Director" shallhavethemeaning assigned to
+theminthe4[Companies Act,2013(18of2013)];]
+5[(bb)"Designated Officer"meansanyofficeroraclassofofficersauthorized
+byabanking company, eitherbynameorbydesignation, forthe
+purpose ofopening smallaccounts.]
+(c)"Director" meanstheDirector appointed undersub-section (1)of
+section49oftheActforthepurposes of6[sections 12,12Aand13]
+oftheAct;
+1.Ins.byG.S.R.538(E),dated1stJune,2017(w.e.f.1-6-2017).
+2.Subs.byCS.R.576(E),dated27thAugust, 2013,forclause(b)(w.e.f.27-8-2013). Clause(b),
+beforesubstitution, stoodasunder:
+'(b)"client" meansapersonthatengages inafinancial transaction oractivitywitha
+banking company, orfinancial institution orintermediary andincludes apersononwhose
+behalfthepersonthatengages inthetransaction oractivity, isacting;'.
+3.Ins.byC.S.R.576(E),dated27thAugust, 2013(w.e.f.27-8-2013).
+4.Subs.byCS.R.544(E),dated7thJuly,2015,for"Companies Act,1956(1of1956)"(w.e.f.
+7-7-2015).
+5.Ins.byG.S.R.980(E),dated16thDecember, 2010(w.e.f.16-12-2010).
+6.Subs.byCS.R.576(E), dated27thAugust, 2013,for"sections 12and13"(w.e.f.
+27-8-2013).
+76 [Rule2 ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+l[(ca)"KnowYourClient(KYC)Identifier" meanstheuniquenumber or
+codeassigned toaclientbytheCentralKYCRecords Registry;]
+l[(cb)"KnowYourClient(KYC)records" meanstherecords, including the
+electronic records, relieduponbyareporting entityincarrying out
+clientduediligence asreferred toinrule9oftheserules;]
+l[(cc)"lastKYCverification orupdation"meansthelasttransaction made
+byareporting entityintheCentralKYCRecords Registry bywhich
+theKYCrecordsofaclientwererecorded, changed orupdated by
+areporting entity;]
+2[3[(cd)] "nonprofitorganisation" meansanyentityororganisation thatis
+registered asatrustorasocietyundertheSocieties Registration
+Act,1860(21of1860)oranysimilar Statelegislation ora
+company registered under4[section 8oftheCompanies Act,2013
+(18of2013)];]
+(d)"officially validdocument" means5[thepassport, thedrivinglicence,
+theVoter'sIdentity CardissuedbyElection Commission ofIndia,
+jobcardissuedbyNREGA dulysignedbyanofficeroftheState
+Government, theletterissuedbytheNational Population Register
+containing detailsofname,addressoranyotherdocument asnotified
+bytheCentralGovernment inconsultation withtheRegulator]:
+6[Provided thatwheresimplified measures areappliedforverifying
+theidentity oftheclientsthefollowing documents shallbedeemed
+tobeofficially validdocuments:-
+(a)identitycardwithapplicant's Photograph issuedbyCentral/State
+Government Departments, Statutory IRegulatory Authorities,
+PublicSectorUndertakings, Scheduled Commercial Banks,and
+PublicFinancial Institutions;
+(b)letterissuedbyagazetted officer,withadulyattestedphotograph
+oftheperson:]
+7[Provided furtherthatwheresimplified measures areapplied
+forverifying thelimitedpurpose ofproofofaddress ofthe
+1.Ins.byC.5.R.544(E),dated7thJuly,2015(w.e.f.7-7-2015).
+2.Ins.byC.s.R.816(E),dated12thNovember, 2009(w.e.f.12-11-2009).
+3.Clause(ca)re-numbered asclause(cd)thereofbyC.s.R.544(E),dated7thJuly,2015(w.e.f.
+7-7-2015).
+4.Subs.byC.s.R.544(E),dated7thJuly,2015,for"section 25oftheCompanies Act,1956(1of
+1956)"(w.e.f.7-7-2015).
+5.Subs.byC.s.R.538(E),dated1stJune,2017,for"thepassport, thedriving licence, the
+Permanent Account Number (PAN)Card,theVoter's Identity CardissuedbyElection
+Commission ofIndia,jobcardissuedbyNRECA dulysignedbyanofficeroftheState
+Covernment, theletterissuedbytheUniqueIdentification Authority ofIndiaortheNational
+Population Register containing detailsofname,address andAadhaar number oranyother
+document asnotifiedbytheCentralGovernment inconsultation withtheRegulator". (w.e.f.
+1-6-2017). Earlierthesewordswereamended byC.5.R.980(E),dated16thDecember, 2010
+(w.e.f.16-12-2010), byC.S.R.576(E),dated27thAugust, 2013(w.e.f.27-8-2013) andbyC.S.R.
+544(E),dated7thJuly,2015(w.e.f.7-7-2015).
+6.Ins.byC.S.R.576(E),dated27thAugust, 2013(w.e.f.27-8-2013).
+7.Ins.byC.S.R.288(E),dated15thApril,2015(w.e.f.15-4-2015).
+Rule2] ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,200577
+clients,whereaprospective customer isunabletoproduce any
+proofofaddress, thefollowing documents shallbedeemed to
+be'officially validdocument':
+(a)utilitybillwhichisnotmorethantwomonths oldofany
+service provider (electricity, telephone, post-paid mobile
+phone,pipedgas,Waterbill);
+(b)property orMunicipal taxreceipt;
+(c)bankaccount orPostOfficesavings bankaccount
+statement;
+(d)pension orfamilypension payment orders(PPOs)issuedto
+retiredemployees byGovernment Departments orPublic
+SectorUndertakings, iftheycontaintheaddress;
+(e)letterofallotment ofaccommodation fromemployer issued
+byStateorCentral Government departments,. statutory or
+regulatory bodies, publicsectorundertakings, scheduled
+commercial banks,financial institutions andlistedcompanies.
+Similarly, leaveandlicenceagreements withsuchemployers
+allotting officialaccommodation; and
+1[(£)***]
+2[Provided alsothatincasetheofficially validdocument
+presented byaforeignnational doesnotcontainthedetails
+ofaddress, insuchcasethedocuments issuedbythe
+Government departments offoreignjurisdictions andletter
+issuedbytheForeign Embassy orMission inIndiashallbe
+accepted asproofofaddress.]
+3[Explanation.-For thepurpose ofthisclause,adocument
+shallbedeemed toan"officially validdocument" evenif
+thereisachangeinthenamesubsequent toitsissuance
+provided it:issupported byamarriage certificate issuedby
+theStateGovernment orGazettenotification, indicating such
+achangeofname.]
+(e)"prescribed value"meansthevalueoftransaction prescribed under
+theserules;
+(f)"Principal Officer" meansanofficerdesignated bya4[reporting
+entity];
+5[(fa)Regulator means-
+(i)apersonoranauthority oraGovernment whichisvestedwith
+thepowertolicense,authorise, register, regulate orsupervise the------1.Clause(f)omitted byG.S.R.1318(E), dated23rdOctober, 2017(w.e.f.23-10-2017). Clause(f),
+beforeomission, stoodasunder:
+"(f)documents issuedbyGovernment departments offoreignjurisdiction andletterissuedby
+ForeignEmbassy orMission inIndia.".
+2.Ins.byG.S.R.1318(E), dated23rdOctober, 2017(w.e.f.23-10-2017).
+3.Ins.byG.S.R.730(E),dated22ndSeptember, 2015(w.e.f.22-9-2015).
+4.Subs.byG.5.R.576(E),dated27thAugust, 2013,for"banking company, financial institution
+orintermediary, asthecasemaybe,"(w.e.f.27-8-2013).
+5.Subs.byG.5.R.347(E),dated12thApril,2017,forclause(fa)(w.e.f.12-4-2017). Earlierclause
+(fa)wasinserted byG.S.R.816(E),dated12thNovember, 2009(w.e.f.12-11-2009) andamended
+byG.S.R576(E),dated27thAugust, 2013(w.e.f.27-8-2013). Clause(fa),beforesubstitution,
+stoodasunder:
+"(fa)"Regulator" meansapersonoranauthority oraGovernment whichisvestedwith
+thepowertolicense,authorise, register, regulate orsupervise theactivityofreporting
+entitiesortheDirector asmaybenotifiedbytheGovernment foraspecificreporting
+entityoraclassofreporting entitiesorforaspecificpurpose;".
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005[Rule2 78
+activityofreporting entitiesortheDirector asmaybenotified
+bytheGovernment foraspecificreporting entityoraclassof
+reporting entitiesorforaspecificpurpose;
+(ii)theReserve BankofIndiawithrespect toCentral KYC
+Records Registry asdefined inclause(aa)ofsub-rule (1)of
+rule2;]
+1[(iii)theDirectorate General ofGoodsandServiceTaxintelligence
+withrespecttoGemsandJewellery Sector.]
+2[(faa)"Rules"meansthePrevention ofMoney-laundering (Maintenance of
+Records) Rules,2005;]
+3[(fb)"smallaccount" meansasavings account inabanking company
+where-
+(i)theaggregate ofallcreditsinafinancial yeardoesnotexceed
+rupeesonelakh,
+(ii)theaggregate ofallwithdrawals andtransfers inamonthdoes
+notexceedrupeestenthousand, and
+(iii)thebalance atanypointoftimedoesnotexceedrupeesfifty
+thousand:]
+4[Provided thatthislimitonbalanceshallnotbeconsidered while
+making deposits through government grants,welfare benefits' and
+payment againstprocurements.]
+5[(g)"suspicious transaction" meansatransaction referred toinclause(h),
+including anattempted transaction, whether ornotmadeincash,
+whichtoapersonactingingoodfaith-
+(a)givesrisetoareasonable groundofsuspicion thatitmayinvolve
+proceeds ofanoffence specified intheSchedule totheAct,
+regardless ofthevalueinvolved; or
+(b)appears tobemadeincircumstances ofunusual orunjustified
+complexity; or
+(c)appears tohavenoeconomic rationale orbonafidepurpose; or
+(d)givesrisetoareasonable groundofsuspicion thatitmayinvolve
+financing oftheactivities relating toterrorism;]
+6[Explanation.- Transaction involving financing oftheactivities
+relating toterrorism includes transaction involving fundssuspected
+tobelinkedorrelatedto,ortobeusedforterrorism, terrorist acts
+orbyaterrorist, terrorist organisation orthosewhofinanceorare
+attempting tofinanceterrorism.]
+------
+1.Ins.byG.S.R.1057(E), dated23rdAugust, 2017(w.e.f.23-8-2017).
+2.Ins.byG.5.R.576(E),dated27thAugust, 2013(w.e.f.27-8-2013).
+3.Ins.byG.S.R.980(E),dated16thDecember, 2010(w.e.f.16-12-2010).
+4.Ins.byG.S.R.1038(E), dated21stAugust, 2017(w.e.f.21-8-2017).
+5.Subs.byG.5.R.816(E),dated12thNovember, 2009forclause(g)(w.e.f.12-11-2009). Earlier
+clause(g)wasamended byG.S.R.389(E),dated24thMay,2007(w.e.f.24-5-2007). Clause(g),
+beforesubstitution byG.S.R.816(E),stoodasunder:
+"(g)"suspicious transaction" meansatransaction whether ornotmadeincashwhich,to
+apersonactingingoodfaith-
+(a)givesrise-toareasonable groundofsuspicion thatitmayinvolvetheproceeds
+ofcrime;or
+(b)appears tobemadeincircumstances ofunusual orunjustified complexity; or
+(c)appears tohavenoeconomic rationale orbonafidepurpose; or
+(d)givesrisetoareasonable groundofsuspicion thatitmayinvolve financing of
+theactivities relating toterrorism;". .
+6.Ins.byG.S.R.508(E),dated16thJune,2010(w.e.f.16-6-2010).
+Rule3] ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+l[(h)"transaction" meansapurchase, sale,loan,pledge,gift,transfer,
+delivery orthearrangement thereofandincludes-
+(i)opening ofanaccount;
+(ii)deposits, withdrawal, exchange ortransfer offundsin
+whatever currency, whether incashorbycheque, payment
+orderorotherinstruments orbyelectronic orothernon-
+physical means;
+(iii)theuseofasafetydepositboxoranyotherformofsafe
+deposit;
+(iv)entering intoanyfiduciary relationship;
+(v)anypayment madeorreceived inwholeorinpartofany
+contractual orotherlegalobligation;
+(vi)anypayment madeinrespectofplayinggamesofchancefor
+cashorkindincluding suchactivities associated withcasino;
+and
+(vii)establishing orcreating alegalperson orlegal
+arrangement. ]
+(2)Allotherwordsandexpressions usedandnotdefined intheserules
+butdefined intheActshallhavethemeaning respectively assigned tothem
+intheAct.
+3.Maintenance ofrecordsoftransactions (natureandvalue).-(l) 2[Every
+reporting entityshallmaintain therecordofalltransactions including, therecord
+of-
+(A)allcashtransactions ofthevalueofmorethantenlakhrupeesorits
+equivalent inforeigncurrency; I
+, I
+(B)allseriesofcashtransactions integrally connected toeachother
+whichhavebeenindividually valuedbelowrupeestenlakhorits
+equivalent inforeigncurrency wheresuchseriesoftransactions have
+takenplacewithinamonthandthemonthly aggregate exceeds an
+amount oftenlakhrupeesoritsequivalent inforeigncurrency;]
+1.Subs.byG.5.R576(E), dated27thAugust, 2013,forclause(h)(w.e.f.27-8-2013).
+Clause(h),beforesubstitution, stoodasunder:
+"(h)"transaction" includes deposit,withdrawal, exchange ortransferoffundsinwhatever
+currency, whether incashorbycheque, payment orderorotherinstruments orby
+electronic orothernon-physical means.".
+2.Subs.byG.5.R576(E),dated27thAugust, 2013,forCertain words(w.e.f.27-8-2013).
+Earlierthesewordswereamended byG.S.R.76(E),dated12thFebruary, 2010(w.e.f.
+12-2-2010). Thewords,beforesubstitution byG.5.R.576(E),dated27thAugust, 2013,stood
+asunder:
+"Everybanking company orfinancial institution orintermediary, asthecasemaybe,shall
+maintain therecordofalltransactions including therecordof,-
+(A)allcashtransactions ofthevalueofmorethanrupeestenlakhsoritsequivalent in
+foreigncurrency;
+(B)allseriesofcashtransactions integrally connected toeachotherwhichhavebeen
+valuedbelowrupeestenlakhsoritsequivalent inforeigncurrency wheresuchseries
+oftransactions havetakenplacewithinamonth;".79
+80 ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005[Rule3
+l[(BA)alltransactions involving receiptsbynon-profit organisations ofvalue
+morethanrupeestenlakh,oritsequivalent inforeigncurrency;]
+2[(C)all'cashtransactions whereforgedorcounterfeit currency notes
+orbanknoteshavebeenusedasgenuine orwhereanyforgeryof
+avaluable security oradocument hastakenplacefacilitating the
+transactions;]
+(D)allsuspicious transactions whether ornotmadeincashandbyway
+of-
+(i)deposits andcredits,withdrawals intoorfromanyaccounts in
+whatsoever nametheyarereferred toinanycurrency maintained
+bywayof-
+(a)cheques including thirdpartycheques, payorders,demand
+drafts,cashierscheques oranyotherinstrument ofpayment of
+moneyincluding electronic receipts orcreditsandelectronic
+payments ordebits,or
+(b)travellers cheques, or
+(c)transferfromoneaccountwithinthesamebanking company,
+financial institution andintermediary, asthecasemaybe,
+including fromortoNostroandVostroaccounts, or
+(d)anyothermodeinwhatsoever nameitisreferred to;
+(ii)creditsordebitsintoorfromanynon-monetary accounts. such
+asd-mataccount, security account inanycurrency maintained
+bythebanking company, financial institution andintermediary,
+asthecasemaybe;
+(iii)moneytransfer orremittances infavourofownclientsor
+non-clients fromIndiaorabroadandtothirdpartybeneficiaries
+inIndiaorabroadincluding transactions onitsownaccount in
+anycurrency byanyofthefollowing:-
+(a)payment orders,or
+(b)cashiers cheques, or
+(c)demand drafts,or
+(d)telegraphic orwiretransfers orelectronic remittances or
+transfers, or
+(e)internet transfers, or
+(f)Automated Clearing Houseremittances, or
+(g)lockboxdriventransfers orremittances, or
+(h)remittances forcreditorloadingtoelectronic cards,or
+1.Ins.byG.S.R.816(E),dated12thNovember, 2009(w.e.f.12-11-2009).
+2.Subs.byG.S.R.389(E), dated24thMay,2007,forclause(C)(w.e.f.24-5-2007).
+Clause(C),beforesubstitution, stoodasunder:
+"(C)allcashtransactions whereforgedorcounterfeit currency notes'orbanknotes
+havebeenusedasgenuine andwhereanyforgeryofavaluable security hastaken
+place;".
+Rule5] ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,200581
+(i)anyothermodeofmoneytransferbywhatsoever-name itis
+called;
+(iv)loansandadvances including creditorloansubstitutes,
+investments andcontingent liabilitybywayof-
+(a)subscription todebtinstruments suchascommercial paper,
+certificate ofdeposits, preferential shares, debentures,
+securitised participation, interbankparticipation orany
+otherinvestments insecurities orthelikeinwhatever form
+andnameitisreferred to,or
+(b)purchase andnegotiation ofbills,cheques andother
+instruments, or
+(c)foreign exchange contracts, currency, interest rateand
+commodity andanyotherderivative instrument inwhatsoever
+nameitiscalled,or
+(d)lettersofcredit,standby lettersofcredit,guarantees, comfort
+letters,solvency certificates andanyotherinstrument for
+settlement and/orcreditsupport;
+(v)collection services inanycurrency bywayofcollection of
+bills,cheques, instruments oranyothermodeofcollection in
+whatsoever nameitisreferred to.
+l[(E)allcrossborderwiretransfers ofthevalueofmorethanfivelakh
+rupeesoritsequivalent inforeigncurrency whereeithertheorigin
+ordestination offundisinIndia;]
+l[(F)allpurchase andsalebyanypersonofimmovable property valued
+atfiftylakhrupeesormorethatisregistered bythereporting entity,
+asthecasemaybe.]
+4.Records containing information.- Therecords referred toin
+rule32[shallcontain allnecessary information specified bytheRegulator
+topermitreconstruction ofindividual transaction, including] thefollowing
+information:-
+(a)thenatureofthetransactions;
+(b)theamount ofthetransaction andthecurrency inwhichitwas
+denominated;
+(c)thedateonwhichthetransaction wasconducted; and
+(d)thepartiestothetransaction.
+3[5.Procedure andmannerofmaintaining inforrnation.-(l) Everyreporting
+entityshallmaintain information inrespectoftransactions withitsclientreferred
+toinrule3inaccordance withtheprocedure andmanner asmaybespecified
+byitsregulator fromtimetotime.
+1.Ins.byG.5.R.576(E),dated27thAugust, 2013(w.e.f.27-8-2013).
+2.Subs.byG.5.R.76(E),dated12thFebruary, 2010,for"shallcontain" (w.e.f.12-2-2010).
+3.Subs.byG.S.R576(E),dated27thAugust, 2013,forrule5(w.e.f.27-8-2013). Earlier
+rule5wasamended byG.5.R.717(E),dated13thDecember, 2005(w.e.f.13-12-2005), by
+G.5.R.816(E),dated12thNovember, 2009(w.e.f.12-11-2009) andbyG.S.R.76(E),dated12th
+Contd.onnextpage
+82 ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005[Rule5
+(2)Everyreporting entityshallevolveaninternalmechanism formaintaining
+suchinformation insuchformandmanner andatsuchintervals asmaybe
+specified byitsregulator fromtimetotime.
+(3)Itshallbethedutyofeveryreporting entity,itsdesignated director,
+officersandemployees toobservetheprocedure andthemannerofmaintaining
+information asspecified byitsregulator undersub-rule (1).]
+l[***]
+2[7.Procedure andmanner offurnishing information.-(l) Everyreporting
+entityshallcommunicate totheDirector thename,designation andaddress of
+theDesignated Director andthePrincipal Officer.
+(2)ThePrincipal Officershallfurnishtheinformation referred toinclauses
+(A),(B),(BA),(C),(D),(E)and(F)ofsub-rule (1)ofrule3totheDirector on
+thebasisofinformation available withthereporting entity.Acopyofsuch
+Contd.fromprevious page
+February, 2010(w.e.f.12-2-2010). Rule5,beforesubstitution byG.5.R.576(E),dated27th
+August, 2013,stoodasunder:
+"5.Procedure andmannerofmaintaining information.-(l) Everybanking company,
+financial institution andintermediary, asthecasemaybe,shallmaintain information in
+respectoftransactions withitsclientreferred toinrule3inaccordance withtheprocedure
+andmanner asmaybespecified byitsRegulator, fromtimetotime.
+(2)Everybanking company, financial institution andintermediary, shallevolvean
+internal mechanism formaintaining suchinformation insuchformandatsuchintervals
+asmaybespecified byitsRegulator, fromtimetotime.
+(3)Itshallbethedutyofeverybanking company, financial institution andintermediary,
+asthecasemaybe,toobserve theprocedure andthemanner ofmaintaining information
+asspecified byitsRegulator, undersub-rule (1).". '
+1.Rule6omitted byG.S.R.576(E)~ dated27thAugust, 2013'(w.e.f.27-8-2013). Earlier
+rule6wassubstituted byG.S.R.816(E),dated12thNovember, 2009(w.e.f.12-11-2009).
+Rule6,beforeomission byG.S.R.576(E),dated27thAugust, 2013,stoodasunder:
+"6.Retention ofrecordsoftransactions.-The records referred toinrule3shallbe
+maintained foraperiodoftenyearsfromthedateoftransactions between theclientand
+thebanking company, financial institution orintermediary, asthecasemaybe.".
+2.Subs.byC.5.R.576(E),dated27thAugust, 2013,forrule7(w.e.f.27-8-2013). Earlier
+rule7wasamended byC.S.R.717(E),dated13thDecember, 2005(w.e.f.13-12-2005), byG.S.R
+76(E),dated12thFebruary, 2010(w.e.f.12-2-2010). Rule7,beforeomission byC.S.R.576(E),
+dated27thAugust, 20i3,stoodasunder:
+"7.Procedure andmanneroffurnishing information.-(1) Everybanking company, financial
+institution andintermediary, asthecasemaybe,shallcommunicate thename,designation
+andaddress ofthePrincipal OfficertotheDirector.
+(2)ThePrincipal Officershallfurnishtheinformation referred toinclauses(A),(B),(BA),
+(C)and(D)ofsub-rule (1)ofrule3totheDirector onthebasisofinformation available
+withthebanking company, financial institution andintermediary, asthecasemaybe.A
+copyofsuchinformation shallberetained bythePrincipal Officerforthepurposes of
+officialrecord.
+(3)Everybanking company, financial institution andintermediary mayevolvean
+internal mechanism forfurnishing information referred toinclauses(A),(B),(BA),(C)
+and(D)ofsub-rule (1)ofrule3insuchformandatsuchintervals asmaybedirected
+byitsRegulator.
+(4)Itshallbethedutyofeverybanking company, financial institution andintermediary
+toobserve theprocedure andthemanner offurnishing information asspecified byits
+Regulator, undersub-rule (3).".
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,200582A Rule8]
+information shallberetained bythePrincipal Officerforthepurposes ofofficial
+record.
+(3)Everyreporting entityshallevolveaninternalmechanism havingregard
+toanyguidelines issuedbyl[theDirector inconsultation with,its]regulator,
+fordetecting thetransactions referred toinclauses(A),(B),(BA),(C),(D),(E)
+and(F)ofsub-rule (1)ofrule3andforfurnishing information aboutsuch
+transactions insuchformasmaybedirected byl[theDirector inconsultation
+with,]itsRegulator.
+(4)Itshallbethedutyofeveryreporting entity,itsdesignated director,
+officersandemployees toobserve theprocedure andthemanner offurnishing
+information asspecified byl[theDirector inconsultation with,]itsRegulator.]
+2[8.Furnishing ofinformation totheDirector.-(1) ThePrincipal Officerof
+areporting entityshallfurnishtheinformation inrespectoftransactions referred
+toinclauses(A),(B),(BA),(C)and(E)ofsub-rule (1)ofrule3everymonthto
+theDirector bythe15thdayofthesucceeding month.
+(2)ThePrincipal Officerofareporting entityshallfurnishtheinformation
+promptly inwritingorbyfaxorbyelectronic mailtotheDirector inrespect
+oftransactions referred toinclause(D)ofsub-rule (1)ofrule3notlaterthan
+sevenworking daysonbeingsatisfied thatthetransaction issuspicious.
+(3)ThePrincipal Officerofareporting entityshallfurnish, theinformation
+inrespectoftransactions referred toinclause(F)ofsub-rule (1)ofrule3,every
+quartertotheDirector bythe15thdayofthemonthsucceeding thequarter.
+(4)Forthepurpose ofthisrule,delayofeachdayinnotreporting a
+transaction ordelayofeachdayinrectifying amis-reported transaction beyond
+thetimelimitasspecified inthisruleshallconstitute aseparate violation.]
+1.Ins.byG.5.R.730(E),dated22ndSeptember, 2015(w.e.f.22-9-2015).
+2.Subs.byG.5.R.576(E),dated27thAugust, 2013,forrule8(w.e.f.27-8-2013). Earlier
+rule8wasamended byG.S.R.717(E),dated13thDecember, 2005(w.e.f,13-12-2005),
+substituted byG.S.R.389(E),dated24thMay,2007(w.e.f.24-5-2007) andamended by
+G.5.R.816(E),dated12thNovember, 2009(w.e.f.12-11-2009). Rule8,beforesubstitution by
+G.5.R.576(E),dated27thAugust, 2013,stoodasunder:
+"8.Furnishing ofinformation totheDirector.-(1) ThePrincipal Officerofabanking
+company, afinancial institution andanintermediary, asthecasemaybe,shallfurnish
+theinformation inrespectoftransactions referred toinClause(A),(B)and(BA)ofsub-
+rule(1)ofrule3everymonthtotheDirector bythe15thdayofthesucceeding month.
+(2)ThePrincipal Officerofabanking company, afinancial institution andan
+intermediary, asthecasemaybe,shallfurnishtheinformation promptly inwritingorby
+faxorbyelectronic mailtotheDirector inrespectoftransactions referred toinclause(C)
+ofsub-rule (1)ofrule3notlaterthansevenworking daysfromthedateofoccurrence of
+suchtransaction.
+(3)ThePrincipal Officerofabanking company, afinancial institution andan
+intermediary, asthecasemaybe,shallfurnishtheinformation promptly inwritingor
+byfaxorbyelectronic mailtotheDirector inrespectoftransactions referred toinclause
+(D)ofsub-rule (1)ofrule3notlaterthansevenworking daysonbeingsatisfied thatthe
+transaction issuspicious:
+Provided thatabanking company, financial institution orintermediary, asthecasemay
+be,anditsemployees shallkeepthefactoffurnishing information inrespectoftransactions
+referred toinclause(D)ofsub-rule (1)ofrule3strictlyconfidential.".
+828 ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+1[9.ClientDueDiligence.-(l) Everyreporting entityshall-
+(a)atthetimeofcommencement ofanaccount-based relationship-
+(i)identifyitsclients,verifytheiridentity, obtaininformation onthe'
+purpose andintended natureofthebusiness relationship; and[Rule9
+Contd.fromprevious page
+1.Subs.byC.5.R.576(E),dated27thAugust, 2013,forrule9(w.e.f.27-8-2013). Earlier
+rule9wasamended byG.S.R.389(E),dated24thMay,2007(w.e.f.24-5-2007), C.5.R.816(E),
+dated12thNovember 2009(w.e.f.12-11-2009), G.S.R.76(E),dated12thFebruary, 2010(w.e.f.
+12-2-2010), C.S.R.508(E),dated16thJune,2010(w.e.f.16-6-2010) andG.S.R.980(E),dated
+16thDecember, 2010(w.e.f.16-12-2010). Rule9,beforesubstitution, byG.5.R.576(E),dated
+27thAugust, 2013,stoodasunder:
+"9.Verification oftherecordsoftheidentityofcZients.-(I) Everybanking company, financial
+institution andintermediary, asthecasemaybe,shall,-
+(a)atthetimeofcommencement ofanaccount-based relationship, identify itsclients,
+verifytheiridentity andobtaininformation onthepurpose andintended natureof
+thebusiness relationship, and
+(b)inallothercases,verifyidentity whilecarrying out-
+(i)transaction ofanamount equaltoorexceeding rupeesfiftythousand, whether
+conducted asasingletransaction orseveral transactions thatappeartobe
+connected, or
+(ii)anyinternational moneytransfer operations.
+(IA)Everybanking company, financial institution andintermediary, asthecasemay
+be,shalldetermine whether aclientisactingonbehalfofabeneficial owner,identify the
+beneficial ownerandtakeallreasonable stepstoverifyhisidentity.
+Explanation.-For thepurposes ofthissub-rule "beneficial owner"shallmeanthenatural
+personwhoultimately ownsorcontrols aclientandorthepersononwhosebehalfa
+transaction isbeingconducted, andincludes apersonwhoexercise ultimate effective
+controloverajuridical person.
+(lB)Everybanking company, financial institution andintermediary, asthecasemaybe,
+shallexercise ongoing duediligence withrespecttothebusiness relationship withevery
+clientand'closely, examine thetransactions inordertoensurethattheyareconsistent
+withtheirknowledge oftheclient,hisbusiness andriskprofileandwherenecessary, the
+sourceoffunds.
+(lC)Nobanking company, financial institution orintermediary, asthecasemaybe,
+shallallowtheopening oforkeepanyanonymous account oraccount infictitious names
+oraccount onbehalfofotherpersons whoseidentity hasnotbeendisclosed orcannotbe
+verified.
+(10)Whentherearesuspicions ofmoneylaundering orfinancing oftheactivities relating
+toterrorism orwheretherearedoubtsabouttheadequacy orveracity ofpreviously
+obtained customer identification data,everybanking company, financial institution and
+<,intermediary shallreviewtheduediligence measures including verifying againtheidentity
+oftheclientandobtaining information onthepurpose andintended natureofthebusiness
+relationship, asthecasemaybe.
+(2)Wheretheclientisanindividual, heshallforthepurpose ofsub-rule (1),submit
+tothebanking company, financial institution andintermediary, asthecasemaybe,one
+certified copyofan'officially validdocument' containing detailsofhisidentity and
+address, onerecentphotograph andsuchotherdocuments including inrespectofthe
+natureofbusiness andfinancial statusoftheclientasmayberequired bythebanking
+company orthefinancial institution ortheintermediary, asthecasemaybe:
+Provided thatphotograph neednotbesubmitted byaclientfallingunderclause(b)of
+sub-rule (1).
+(2A)Notwithstanding anything contained insub-rule (2),anindividual whodesiresto
+openasmallaccountinabanking company maybeallowed toopensuchanaccount on
+Contd.onnextpage
+Rule9] ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+(ii)determine whether aclientisactingonbehalfofabeneficial
+owner,andidentify, thebeneficial ownerandtakeallstepsto
+verifytheidentity ofthebeneficial owner:82C
+Conid.fromprevious page
+production ofaself-attested photograph andaffixation ofsignature orthumbprint,as
+thecasemaybe,ontheformforopening theaccount:
+Provided that-
+(i)thedesignated officerofthebanking company, whileopening thesmallaccount,
+certifies underhissignature thatthepersonopening theaccount hasaffixedhis
+signature orthumbprint,asthecasemaybe,inhispresence;
+(ii)asmallaccount shallbeopened onlyatCoreBanking Solution linkedbanking
+company branches orinabranch whereitispossible tomanually monitor andensure
+thatforeignremittances arenotcredited toasmallaccount andthatthestipulated
+limitsonmonthly andannualaggregate oftransactions andbalanceinsuchaccounts
+arenotbreached, beforeatransaction isallowed totakeplace;
+(iii)asmallaccountshallremainoperational initiallyforaperiodoftwelvemonths, and
+thereafter forafurtherperiodoftwelvemonths iftheholderofsuchanaccount
+provides evidence beforethebanking company ofhavingapplied foranyofthe
+officially validdocuments withintwelvemonthsoftheopening ofthesaidaccount,
+withtheentirerelaxation provisions tobereviewed inrespectofthesaidaccount
+aftertwenty-four months;
+(iv)asmallaccountshallbemonitored andwhenthereissuspicion ofmoneylaundering
+orfinancing ofterrorism orotherhighriskscenarios, theidentity ofclientshallbe
+established through theproduction ofofficially validdocuments, asreferred toin
+sub-rule (2)ofrule9;and
+(v)foreignremittance shallnotbeallowed tobecredited intoasmallaccount unless
+theidentity oftheclientisfullyestablished through theproduction ofofficially valid
+documents, asreferred toinsub-rule (2)ofrule9,
+(3)Wheretheclientisacompany, itshallforthepurposes ofsub-rule (1)submittothe
+banking company orfinancial institution orintermediary, asthecasemaybe,onecertified
+copyofthefollowing documents-c-
+(i)Certificate ofincorporation;
+(ii)Memorandum andArticles ofAssociation;
+(iii)aresolution fromtheBoardofDirectors andpowerofattorney granted, toits
+managers, officersoremployees totransact onitsbehalf;and
+(iv)anofficially validdocument inrespectofmanagers, officersoremployees holding
+anattorney totransact onitsbehalf,
+(4)Wheretheclientisapartnership firm,itshallforthepurposes ofsub-rule (1)submit
+tothebanking company, orthefinancial institution, ortheintermediary onecertified copy
+ofthefollowing documents:-
+(i)registration certificate;
+(ii)partnership deed;and
+(iii)anofficially validdocument inrespectofthepersonholding anattorney totransact
+onitsbehalf,
+(5)Wheretheclientisatrust,itshall,"forthepurposes ofsub-rule (1)submittothe
+banking company," orthefinancial institution, ortheintermediary onecertified copyof
+thefollowing documents:-
+(i)registration certificate;
+(ii)trustdeed;and
+(iii)anofficially validdocument inrespectofthepersonholding anattorney totransact
+onitsbehalf,
+Conid.onnextpage
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+Provided thatwheretheRegulator isoftheviewthatmoney
+laundering andterrorist financing risksareeffectively managed
+andwherethisisessential nottointerrupt thenormalconduct of
+business, theRegulator maypermitthereporting entitytocomplete
+theverification assoonasreasonably practicable following the
+establishment oftherelationship; and
+(b)inallothercases,verifyidentity whilecarrying out-
+(i)transaction ofanamount equaltoorexceeding rupeesfifty
+thousand, whether conducted asasingletransaction orseveral
+transactions thatappeartobeconnected, or
+(ii)anyinternational moneytransfer operations.
+l[(lA)Subjecttotheprovisions ofsub-rule (I),everyreporting entityshall
+withinthreedaysafterthecommencement ofanaccount-based relationship with
+aclient,filetheelectronic copyoftheclient'sKYCrecords withtheCentral
+,KYCRecords Registry;] .
+l[(lB)TheCentral KYCRecords Registry shallprocess theKYCrecords
+received fromareporting entityforde-duplicating andissueaKYCIdentifier for
+eachclienttothereporting entity,whichshallcommunicate theKYCIdentifier
+inwritingtotheirclient;]
+1[(1C)Whereaclient,forthepurposes ofclause(a)andclause(b),submits
+aKYCIdentifier toareporting entity,thensuchreporting entityshallretrieve
+theKYCrecords onlinefromtheCentralKYCRecords Registry byusingthe
+KYCIdentifier andshallnotrequireaclien:ttosubmitthesameKYCrecords
+orinformation oranyotheradditional identification documents ordetails,
+unless-820 [Rule9
+Contd.fromprevious page
+(6)Wheretheclientisanunincorporated association orabodyofindividuals, itshall
+submittothebanking company, orthefinancial institution ortheintermediary one
+certified copyofthefollowing documents:-
+(i)resolution ofthemanaging bodyofsuchassociation orbodyofindividuals;
+(ii)powerofattorney granted tohimtotransact onitsbehalf;
+(iii)anofficially validdocument inrespectofthepersonholding anattorney totransact
+onitsbehalf;and
+(iv)suchinformation asmayberequired bythebanking company orthefinancial
+institution ortheintermediary tocollectively establish thelegalexistence ofsuchan
+association orbodyofindividuals.
+(6A)Wheretheclientisajuridical person,thebanking company, financial institution
+andintermediary, asthecasemaybe,shallverifythatanypersonpurporting toacton
+behalfofsuchclientissoauthorised andverifytheidentity ofthatperson.
+(7)(i)Theregulator shallissueguidelines incorporating therequirements ofsub-rules
+(1)to(6A)aboveandmayprescribe enhanced measures toverifytheclient'sidentity
+takingintoconsideration typeofclient,business relationship ornatureandvalueof
+transactions.
+(ii)Everybanking company, financial institution andintermediary asthecasemaybe,
+shallformulate andimplement aClientIdentification Programme todetermine thetrue
+identity ofitsclients,incorporating requirements ofsub-rules (1)to(6A)andguidelines
+issuedunderclause(i)above.",
+1.Ins.byC.S.R.544(E),dated7thJuly,2015(w.e.f.7-7-2015).
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+(i)thereisachangeintheinformation oftheclientasexisting inthe
+recordsofCentralKYCRecords Registry;
+(ii)thecurrentaddress oftheclientisrequired tobeverified;
+(iii)thereporting entityconsiders itnecessary inordertoverifythe
+identityoraddressoftheclient,ortoperform enhanced duediligence
+ortobuildanappropriate riskprofileoftheclient.]
+l[(lD)Areporting entityafterobtaining additional orupdated information
+fromaclientundersub-rule (1C),shallassoonaspossible furnishtheupdated
+information totheCentralKYCRecords Registry whichshallupdatetheexisting
+KYCrecordsoftheclientandtheCentralKYCRecords Registry shallthereafter
+informelectronically allreporting entitieswhohavedealtwiththeconcerned
+clientregarding updatation ofKYCrecordofthesaidclient.]
+l[(lE)Thereporting entitywhichperformed thelastKYCverification orsent
+updated information inrespectofaclientshallberesponsible forverifying the
+authenticity oftheidentity oraddress oftheclient.]
+l[(lF)Areporting entityshallnotusetheKYCrecordsofaclientobtained
+fromtheCentralKYCRecords Registry forpurposes otherthanverifying the
+identity oraddress oftheclientandshallnottransfer KYCrecords orany
+information contained thereintoanythirdpartyunlessauthorisedto dosoby
+theclientorbytheRegulator orbytheDirector;]
+1[(1G)Theregulator shallissueguidelines toensurethattheCentralKYC
+recordsareaccessible tothereporting entitiesinrealtime.]
+(2)Forthepurpose ofclause(a)ofsub-rule (1),areporting entitymayrely
+onathirdpartysubjecttotheconditions that-.
+2[(a)thereporting entity,withintwodays,obtainsfromthethirdpartyor
+fromtheCentralKYCRecords Registry recordsortheinformation
+oftheclientduediligence carriedoutbythethirdparty.]
+(b)thereporting entitytakesadequate stepstosatisfyitselfthatcopies
+ofidentification dataandotherrelevant documentation relating to
+theclientduediligence requirements willbemadeavailable from
+thethirdpartyuponrequestwithout delay;
+(c)thereporting entityissatisfied thatsuchthirdpartyisregulated,
+supervised ormonitored for,andhasmeasures inplaceforcompliance
+withclientduediligence andrecord-keeping requirements inline
+withtherequirements andobligations undertheAct;
+(d)thethirdpartyisnotbasedinacountry orjurisdiction assessed as
+highrisk;Rule9] 82E
+1.Ins.byC.5.R.544(E),dated7thJuly,2015(w.e.f.7-7-2015).
+2.Subs.byC.S.R.544(E),dated7thJuly,2015,forclause(a)(w.e.f.7-7-2015). Clause(a),before
+substitution, stoodasunder:
+"(a)thereporting entityimmediately obtainsnecessary information ofsuchclientduediligence
+carriedoutbythethirdparty;".
+•ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+(e)thereporting entityisultimately responsible forclientduediligence
+andundertaking enhanced duediligence measures, asapplicable;
+and
+(f)whereareporting entityreliesonathirdpartythatispartofthe
+samefinancial group,theRegulator mayissueguidelines toconsider
+anyrelaxation intheconditions (a)to(d).
+(3)Thebeneficial ownerforthepurpose ofsub-rule (1)shallbedetermined
+asunder-
+(a)wheretheclientisacompany, thebeneficial owneristhenahlral
+person(s), who,whether actingaloneortogether, orthrough oneor
+morejuridical person,hasacontrolling ownership interest orwho
+exercises controlthrough othermeans.
+Explanation.-For thepurpose ofthissub-clause-
+1."Controlling ownership interest" means ownership ofor
+entitlement tomorethantwenty-five percent.ofsharesorcapital
+orprofitsofthecompany;
+2."Control" shallinclude therighttoappoint majority ofthe
+directors ortocontrolthemanagement orpolicy decisions
+including byvirtueoftheirshareholding ormanagement
+rightsorshareholders agreements orvotingagreements;
+(b)wheretheclientisapartnership firm,thebeneficial owneristhe
+naturalpersonfs) who,whether actingaloneortogether, orthrough
+oneormorejuridical person,hasownership ofIentitlement tomore
+thanfifteenpercent.ofcapitalorprofitsofthepartnership;
+(c)wheretheclientisanunincorporated association orbodyof
+individuals, thebeneficial owneristhenatural person(s), who,
+whether actingaloneortogether, orthrough oneormorejuridical
+person,hasownership oforentitlement tomorethanfifteenpercent.
+oftheproperty orcapitalorprofitsofsuchassociation orbodyof
+individuals;
+(d)wherenonaturalpersonisidentified under(a)or(b)or(c)above,
+thebeneficial owneristherelevant naturalpersonwhoholdsthe
+position ofseniormanaging official;
+(e)wheretheclientisatrust,theidentification ofbeneficial owner(s)
+shallinclude'identification oftheauthorofthetrust,thetrustee,the
+beneficiaries withfifteenpercent.ormoreinterestinthetrustand
+anyothernaturalpersonexercising ultimate effective controlover
+thetrustthrough achainofcontrolorownership; and
+(f)wheretheclientortheownerofthecontrolling interestisacompany
+listedonastockexchange, orisasubsidiary ofsuchacompany, itis
+notnecessary toidentify andverifytheidentity ofanyshareholder
+orbeneficial ownerofsuchcompanies.82F [Rule9
+ThePrevention ofMoney-laundering (Maintenance ofRecords) 82G
+Rules,2005
+1[(4)Wheretheclientisanindividual, whoiseligibletobeenrolled foran
+Aadhaar number, heshallforthepurpose ofsub-rule (1)submittothereporting
+entity,- .
+(a)theAadhaar number issuedbytheUniqueIdentification Authority
+ofIndia;and
+(b)thePermanent Account Number orFormNo.60asdefined ill
+Income-tax Rules,1962;
+andsuchotherdocuments including inrespectofthenatureofbusiness and
+financial statusoftheclientasmayberequired bythereporting entity:
+Provided thatwhereanAadhaar number hasnotbeenassigned toaclient,
+theclientshallfurnishproofofapplication ofenrolment forAadhaar andin
+casethePermanent Account Number isnotsubmitted, onecertified copyofan
+'officially validdocument' shallbesubmitted,
+1.Subs.byG.5.R.538(E),dated1stJune,2017,forsub-rule 4tosub-rule (9)(w.e.f.1-6-2017).
+Sub-rule (4)tosub-rule (9),beforesubstitution, stoodasunder:
+"(4)Wheretheclientisanindividual, heshallforthepurpose ofsub-rule (I),submitto
+thereporting entity,onecertified copyofan'officially validdocument' containing details
+ofhisidentity andaddress, onerecentphotograph andsuchotherdocuments including in
+respectofthenatureofbusiness andfinancial statusoftheclientasmayberequired bythe
+reporting entity:
+Provided thatphotograph neednotbesubmitted byaclientfallingunderclause(b)of
+sub-rule (1).
+(5)Notwithstanding anything contained insub-rule (4),anindividual whodesirestoopen
+asmallaccountinabanking company maybeallowed toopensuchanaccountonproduction
+ofaself-attested photograph andaffixation ofSignature orthumbprint,asthecasemaybe,
+ontheformforopening theaccount:
+Provided that-
+(i)thedesignated officerofthebanking company, whileopening thesmallaccount,
+certifies underhissignature thatthepersonopening theaccount hasaffixedhis
+signature orthumpprint,asthecasemaybe,inhispresence;
+(ii)asmallaccount shallbeopened onlyatCoreBanking Solution linkedbanking
+company branches orinabranchwhereitispossible tomanually monitor andensure
+thatforeignremittances arenotcredited toasmallaccount andthatthestipulated
+limitsonmonthly andannualaggregate oftransactions andbalanceinsuchaccounts
+arenotbreached, beforeatransaction isallowed -totakeplace;
+(iii)asmallaccount shallremainoperational initiallyforaperiodoftwelvemonths, and
+thereafter forafurtherperiodoftwelvemonths iftheholderofsuchanaccount
+provides evidence beforethebanking company ofhavingapplied foranyofthe
+officially validdocuments withintwelvemonthsoftheopening ofthesaidaccount,
+withtheentirerelaxation provisions tobereviewed inrespectofthesaidaccount
+aftertwenty-four months;
+(iv)asmallaccountshallbemonitored andwhenthereissuspicion ofmoneylaundering
+orfinancing ofterrorism orotherhighriskscenarios, theidentity ofclientshallbe
+established through theproduction ofofficially validdocuments, asreferred toin
+sub-rule (4)ofrule9;and
+(v)foreignremittance shallnotbeallowed tobecredited intoasmallaccount unless
+theidentityoftheclientisfullyestablished through theproduction ofofficially valid
+documents, asreferred toinsub-rule (4)ofrule9.
+(6)Wheretheclientisacompany, itshallforthepurposes ofsub-rule (1)submittothe
+reporting entityonecertified copyofthefollowing documents:-
+Contd.allnextpage
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+Provided furtherthatphotograph neednotbesubmitted byaclientfallin
+underclause(b)ofsub-rule (1).
+l[Explanation.-Obtaining acertified copybyreporting entityshallmea
+comparing thecopyofofficially validdocument soproduced bytheclientwit
+theoriginal andrecording thesameonthecopybytheauthorised officerofth
+reporting entityinamanner prescribed bytheregulator.]
+(4A)Wheretheclientisanindividual, whoisnoteligibletobeenrolle
+foranAadhaar number, heshallforthepurpose ofsub-rule (1),submittoth
+reporting entity,thePermanent Account Number orFormNo.60asdefinedi
+theIncome-tax Rules,1962:
+Provided .thatiftheclientdoesnotsubmitthePermanent Account Numbe
+heshallsubmitonecertified copyofan'officially validdocument' containin
+detailsofhisidentity andaddress, onerecentphotograph andsuchothe
+documents including inrespectofthenatureorbusiness andfinancial statu
+oftheclientasmayberequired bythereporting entity.
+(5)Notwithstanding anything contained insub-rules (4)and(4A),a
+individual whodesirestoopenasmallaccount inabanking company mayb
+allowed toopensuchanaccount onproduction ofaself-attested photograp
+andaffixation ofsignature orthumbprint,asthecasemaybe,ontheformfc
+opening theaccount:
+Provided that-
+(i)thedesignated officerofthebanking company, whileopening th
+smallaccount, certifies underthissignature thatthepersonopenin
+theaccounthasaffixedhissignature orthumpprint,asthecasema
+be,inhispresence:82H [Rule
+Contd.fromprevious page
+(i)Certificate ofincorporation;
+(ii)Memorandum andArticles ofAssociation;
+(iii)Aresolution fromtheBoardofDirectors andpowerofattorney granted toi
+managers, officersoremployees totransact onitsbehalf;and
+(iv)artofficially validdocument inrespectofmanagers, officersoremployees holdir
+anattorney totransact onitsbehalf.
+(7)Where theclientisapartnership firm,itshallforthepurposes ofsul
+rule(1)submittothereporting entityonecertified copyofthefollowing documents:-
+(i)registration certificate;
+(ii)partnership deed;and
+(iii)anofficially validdocument inrespectofthepersonholding anattorney totransa
+onitsbehalf.
+(8)Wheretheclientisatrust,itshall,forthepurposes ofsub-rule (1)submittotl
+reporting entityonecertified copyofthefollowing documents:-
+(i)registration certificate;
+(ii)trustdeed;and
+(iii)anofficially validdocument inrespectofthepersonholding anattorney totransa.
+~onitsbehalf.
+(9)Wheretheclientisanunincorporated association orabodyofindividuals, itsha
+submittothereporting entityonecertified copyofthefollowing documents:-
+(i)resolution ofthemanaging bodyofsuchassociation orbodyofindividuals;
+(ii)powerofattorney granted tohimtotransact onitsbehalf;
+(iii)anofficially validdocument inrespectoftheperson,holding anattorney totransact c
+itsbehalf;and
+(iv)suchinformation asmayberequired bythereporting entitytocollectively establish tl
+legalexistence ofsuchanassociation orbodyofindividuals.".
+l.Ins.byG.s.R.1300(E), dated16thOctober, 2017(w.e.f.16-10-2017).
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005
+(ii)thesmallaccount shallbeopened onlyatCoreBanking Solution
+linkedbanking company branches orinabranchwhereitispossible
+tomanually monitor andensurethatforeignremittances arenot
+credited toasmallaccount andthatthestipulated limitsonmonthly
+andannualaggregate oftransactions andbalance insuchaccounts
+arenotbreached,.before atransaction isallowed totakeplace;
+(iii)thesmallaccount shallremainoperational initially foraperiodof
+twelvemonths, andthereafter forafurtherperiodoftwelvemonths
+iftheholderofsuchanaccountprovides evidence beforethebanking
+company ofhavingappliedforanyoftheofficially validdocuments
+withintwelvemonths oftheopening ofthesaidaccount, withthe
+entirerelaxation provisions tobereviewed inrespectofthesaid
+account aftertwenty-four months.
+(iv)thesmallaccount shallbemonitored andwhenthereissuspicion
+ofmoneylaundering orfinancing ofterrorism orotherhighrisk
+scenarios, theidentity ofclientshallbeestablished through the
+production ofofficially validdocuments, asreferred toinsub-rule (4)
+andtheAadhaar number oftheclientorwhereanAadhaar number
+hasnotbeenassigned totheclient,through theproduction ofproof
+ofapplication towards enrolment forAadhaar alongwithanofficially
+validdocument;
+Provided furtherthatiftheclientisnoteligibletobeenrolled
+foranAadhaar number, theidentity ofclientshallbeestablished
+through theproduction ofanofficially validdocument;
+(v)theforeignremittance shallnotbeallowed tobecredited intothe
+smallaccount unlesstheidentity oftheclientisfullyestablished
+through theproduction ofofficially validdocuments, asreferred to
+insub-rule (4)andtheAadhaar number oftheclientorwherean
+Aadhaar number hasnotbeenassigned totheclient,through the
+production ofproofofapplication towards enrolment forAadhaar
+alongwithan.officially validdocument:
+Provided thatiftheclientisnoteligible tobeenrolled fortheAadhaar
+number, theidentity ofclientshallbeestablished through theproduction ofan
+officially validdocument.
+(6)Where theclientisacompany, itshallforthepurposes of
+sub-rule (I),submittothereporting entitythecertified copiesofthefollowing
+documents:-
+(i)Certificate ofincorporation;
+(ii)Memorandum andArticles ofAssociation;
+(iii)Aresolution fromtheBoardofDirectors andpowerofattorney
+granted toitsmanagers, officers oremployees totransact onits
+behalf:
+(iv)(a)Aadhaar number; and
+(b)Permanent Account Number orForm60asdefinedintheIncome-
+taxRules,1962.
+issuedtomanagers, officersoremployees holding anattorney totransact onthe
+company's behalforwhereanAadhaar number hasnotbeenassigned, proof
+ofapplication towards enrolment forAadhaar andincasePermanent Account
+Number isnotsubmitted anofficially validdocument shallbesubmitted:Rule9] 82-1
+82J ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,2005[Rule9
+Provided thatforthepurpose ofthisclauseifthemanagers, officers or
+employees holding anattorney totransact onthecompany's behalfarenoteligible
+tobeenrolled forAadhaar number anddonotsubmit thePermanent Account
+Number, certified copyofanofficially validdocument shallbesubmitted.
+(7)Wheretheclientisapartnership firm,itshall,forthepurposes ofsub-
+rule(I),submit tothereporting entitythecertified copiesofthefollowing
+documents:- .
+(i)registration certificate;
+(ii)partnership deed;and
+(iii)(a)Aadhaar number; and
+(b)Permanent Account Number orForm60asdefined intheIncome-
+taxRules,1962,
+issuedtotheperson holding anattorney totransact onitsbehalforwherean
+Aadhaar number hasnotbeenassigned, proofofapplication towards enrolment
+forAadhaar andincasePermanent Account Number isnotsubmitted anof-
+ficiallyvaliddocument shallbesubmitted:
+Provided thatforthepurpose ofthisclause,ifthepersonholding anattorney
+totransact onthecompany's behalfisnoteligible tobeenrolled forAadhaar
+number anddoesnotsubmit thePermanent Account Number, certified copyof
+ar,officially validdocument shallbesubmitted. .
+(8)Wheretheclientisatrust,itshall,forthepurposes ofsub-nile (1)submit
+tothereporting entitythecertified copiesofthefollowing documents:-
+(i)registration certificate:
+(ii)trustdeed;and
+(iii)(a)Aadhaar number; and
+(b).Permanent Account Number orForm60asdefined intheIncome-
+taxRules,1962,
+issuedtothe'personholding anattorney totransact onitsbehalforwhereAad-
+haarnumber hasnotbeenassigned, 'proofofapplication towards enrolment for
+Aadhaar andincasePermanent Account Number isnotsubmitted anofficially
+validdocument shallbesubmitted:
+Provided thatforthepurpose ofthisclauseifthepersonholding anattorney
+totransact onthecompany's behalfisnoteligible tobeenrolled forAadhaar
+number anddoesnotsubmit thePermanent Account Number, certified copyof
+anofficially validdocument shallbesubmitted.
+(9)Wheretheclientisanunincorporated association orabodyofindividuals,
+itshallsubmit tothereporting entitythecertified copies ofthefollowing
+documents:-
+(i)resolution ofthemanaging bodyofsuchassociation orbodyof
+individuals;
+(ii)powerofattorney granted tohimtotransact onitsbehalf;
+(iii)(a)theAadhaar number; and
+(b)Permanent Account Number orForm60asdefined intheIncome-
+taxRules,1962,
+issuedtothepersonholding, anattorney totransact onitsbehalforwhere
+Aadhaar number hasnotbeenassigned proofofapplication towards
+enrolment forAadhaar andincasethePermanent Account Number is
+notsubmitted anofficially validdocument shallbesubmitted; and
+Rule9] ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,200582K
+I(iv)suchinformation asmayberequired bythereporting entityto
+collectively establish thelegalexistence ofsuchanassociation or
+bodyofindividuals;
+Provided thatforthepurpose ofthisclauseifthepersonholding anattorney
+totransact onthecompany's behalfisnoteligibletobeenrolled forAadhaar
+number anddoesnotsubmitthePermanent Account Number, certified copyof
+anofficially validdocument shallbesubmitted.]
+(10)Wheretheclientisajuridical person,thereporting entityshallverify
+thatanypersonpurporting toactonbehalfofsuchclientissoauthorized and
+verifytheidentity ofthatperson.
+(11)Noreporting entityshallallowtheopening oforkeepanyanonymous
+account oraccount infictitious namesoraccount onbehalfofotherpersons
+whoseidentityhasnotbeendisclosed orcannotbeverified.
+(12)(i)Everyreporting entityshallexer:iseongoing duediligence with
+respecttothebusiness relationship witheveryclientandcloselyexamine the
+transactions inordertoensurethattheyareconsistent withtheirknowledge
+oftheclient,hisbusiness andriskprofileandwherenecessary, thesourceof
+funds.
+(ii)Whentherearesuspicions ofmoneylaundering orfinancing ofthe
+activities relating toterrorism orwheretherearedoubtsabouttheadequacy
+orveracity ofpreviously obtained clientidentification data,thereporting entity
+shallreviewtheduediligence measures including verifying againtheidentity
+oftheclientandobtaining information onthepurpose andintended natureof
+thebusiness relationship, asthecasemaybe.
+(iii)Thereporting entityshallapplyclientduediligence measures alsoto
+existing clientsonthebasisofmateriality andrisk,andconduct duediligence
+OT'.suchexistingrelationships atappropriate timesorasmaybespecified bythe
+regulator, takingintoaccountwhether andwhenclientduediligence measures
+havepreviously beenundertaken andtheadequacy ofdataobtained.
+(13)(i)Everyreporting entityshallcarryoutriskassessment toidentify,
+assess'andtakeeffective measures tomitigate itsmoneylaundering and
+terrorist financing riskforclients,countries orgeographic areas,andproducts,
+services, transactions ordelivery channels thatisconsistent withanynational
+riskassessment conducted byabodyorauthority dulynotified bytheCentral
+Government.
+(ii)Theriskassessment mentioned inclause(i)shall-
+(a)bedocumented;
+(b)consider alltherelevant riskfactorsbeforedetermining thelevelof
+overallriskandtheappropriate levelandtypeofmitigation tobe
+applied;
+(c)bekeptuptodate;and
+(d)beavailable tocompetent authorities andself-regulating bodies.
+(14)(i)Theregulator shallissueguidelines incorporating therequirements of
+sub-rules (1)to(13)aboveandmayprescribe enhanced orsimplified measures
+toverifytheclient'sidentitytakingintoconsideration thetypeofclient,business
+relationship, natureandvalueoftransactions basedontheoverallmoney
+laundering andterrorist financing risksinvolved.
+Explanation.-For thepurpose ofthisclause,simplified measures arenot
+acceptable whenever thereisasuspicion ofmoneylaundering orterrorist
+financing, orwherespecific higher-risk scenarios applyorwheretherisk
+identified isnotconsistent withthenational riskassessment.
+(ii)Everyreporting entityshallformulate andimplement aClientDue
+Diligence Programme, incorporating therequirements ofsub-rules (1)to(13)
+andguidelines issuedunderclause(i)above.
+ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules.2005
+(iii)theClientDueDiligence Programme shallincludepolicies, controls and
+procedures, approved bytileseniormanagement, toenablethereporting entity
+tomanageandmitigate theriskthathavebeenidentified eitherbythereporting
+enti\rorthrough national riskassessment.
+[(15)Anyreporting entity,atthetimeofreceiptoftheAadhaar number
+underprovisions ofthisrule,shallcarryoutauthentication usingeithere-KYC
+authentication facilityorYes/No authentication facilityprovided byUnique
+Identification Authority ofIndia.] "
+1[(16)Incasetheclientreferred toinsub-rules (4)to(9)ofrule9isnot
+aresident orisaresident intheStatesofJammuandKashmir, Assamor
+Meghalaya anddoesnotsubmitthePermanent Account Number, theclientshall
+submittothereporting entityonecertified copyofofficially validdocument
+containing detailsofhisidentity andaddress; onerecentphotograph andsuch
+otherdocument including inrespectofthenatureofbusiness andfinancial status
+oftheclientasmayberequired bythereporting entity.]
+1[(17)(a)Incasetheclient,eligibletobeenrolled forAadhaar andobtain
+aPermanent Account Number, referred toinsub-rules (4)to(9)ofrule9does
+notsubmittheAadhaar number orthePermanent Account Number atthetime
+ofcommencement ofanaccountbasedrelationship withareporting entity,the
+clientshallsubmitthesamewithinaperiodofsixmonthsfromthedateofthe
+commencement oftheaccountbasedrelationship:
+Provided thattheclients,eligibletobeenrolled forAadhaar andobtainthe
+Permanent Account Number, alreadyhavinganaccountbasedrelationship with
+reporting entitiespriortodateofthisnotification, theclientshall2[submit the
+Aadhaar number andPermanenet Account Number orFormNo.60,bysuch
+date*asmaybenotified bytheCentralGovernment].
+(b)Asperregulation 12oftheAadhaar (Enrolment andUpdate) Regulations,
+2016,thelocalauthorities intheStateGovernments orUnion-territory
+Administrations havebecomeorareintheprocessofbecoming UIDAIRegistrars
+forAadhaar enrolment andareorganising specialAadhaar enrolment camps
+atconvenient locations forproviding enrolment facilities inconsultation with
+UIDAIandanyindividual desirous ofcommencing anaccountbasedrelationship
+asprovided inthisrule,whodoesnotpossesstheAadhaar number orhasnot
+yetenrolled forAadhaar, mayalsovisitsuchspecialAadhaar enrolment camps
+forAadhaar enrolment oranyoftheAadhaar enrolment centresinthevicinity
+withexisting registrars ofUIDAL
+(c)IncasetheclientfailstosubmittheAadhaar number andPermanent
+Account Number withintheaforesaid sixmonthsperiod,thesaidaccountshall
+ceasetobeoperational tillthetimetheAadhaar number andPermanent Account
+Number issubmitted bytheclient:
+3[Provided thatincasetheclientalreadyhavinganaccountbasedrelationship
+withreporting entitiespriortothedateofpublication ofthisnotification inthe82L [Rule9
+1:Ins.byG.5.R.538(E),dated1stJune,2017(w.e.f.1-6-2017).
+2.Subs.byG.S.R.1506(E), dated12thDecember, 2017,for"submit theAadhaar number and
+Permanent Account Number by31stDecember, 2017"(w.e.f.12-12-2017).
+•TheCentralGovernment herebynotifiesthe31stMarch,2018orsixmonthsfromthedate
+ofcommencement ofaccountbasedrelationship bytheclient,whichever islater,asthedate
+ofsubmission oftheAadhaar Number, andPermanent Account Number orForm60bythe
+clientstothereporting entity.[VideG.S.R.1509(E), dated13thDecember, 2017.]
+3.Subs.byG.S.R.1506(E), dated12thDecember, 2017,forproviso (w.e.f.12-12-2017). Proviso,
+beforesubstitution, stoodasunder:
+"Provided thatincaseclientalreadyhavinganaccountbasedrelationship withreporting
+entitiespriortodateofthisnotification failstosubmittheAadhaar numberandPermanent
+Account Number by31stDecember, 2017,thesaidaccount shallceasetobeoperational
+tillthetimetheAadhaar number andPermanent Account Number issubmitted bythe
+client.". •
+RUie9Al ThePrevention ofMoney-laundering (Maintenance atRecords)
+Rules,200582M
+officialGazette failstosubmittheAadhaar number andPermanent Account
+Number bysuchdateasmaybenotified bytheCentralGovernment, thesaid
+account shallceasetobeoperational tillthetimetheAadhaar Number and
+Permanent Account Number issubmitted bytheclient.]] .
+1{(18)Incasetheidentity information relating totheAadhaar number or
+Permanent Account Number submitted bytheclientreferred toinsub-rule (4)to
+(9)ofrule9doesnothavecurrentaddress oftheclient,theclientshallsubmit
+anofficially validdocument tothereporting entity:]
+2[Provided thatincaseofofficially validdocument furnished bytheclient
+doesnotcontainupdated address, thefollowing documents shallbedeemed to
+beofficially validdocuments forthelimitedpurpose ofproofofaddress:-
+(a)utilitybillwhichisnotmorethantwomonthsoldofanyserviceprovider
+(electricity, telephone, post-paid mobilephone,pipedgas,waterbill);
+(b)property orMunicipal taxreceipt;
+(c)pension orfamilypension payment orders(PPOs)issuedtoretired
+employees byGovernment Departments orPublicSectorUndertakings,
+iftheycontamtheaddress;
+(d)letterofallotment ofaccommodation fromemployer issuedbyState
+Government orCentralGovernment Departments, statutory orregulatory
+bodies,publicsectorundertakings, scheduled commercial banks,financial
+institutions andlistedcompanies andleaveandlicenceagreements with
+suchemployers allotting officialaccommodation;
+Provided further thattheclientshallsubmit updated officially valid
+document withcurrentaddress withinaperiodofthreemonthsofsubmitting
+theabovedocuments.]
+3[9A.Functions andobligations oftheCentralKYCRecords Registry.-(l)
+TheCentralGovernment shallwithinaperiodof4[onehundred andeighty
+days]fromthedateofcomingintoforceatthePrevention ofMoney-laundering
+(Maintenance ofRecords) Amendment Rules,2015set-upaCentralKYCRecords
+Registry havingitsownsealforthepurpose ofreceiving, storing,safeguarding
+andretrieving electronic copiesofKYCrecordsobtained bythereporting entities
+fromtheirclientsinaccordance withtheserules.
+(2)The'Central KYCRegistry shallperform thefollowing functions and
+obligations, namely:-
+(a)shallfollowanyoperating instructions issuedbytheRegulator, consistent
+withtheguidelines referred toinclause(g)andissuethesameto
+implement therequirements oftheserules;
+(b)shallberesponsible forstoring, safeguarding andretrieving theKYC
+recordsandmakingsuchrecordsavailable onlinetoreporting entitiesor
+Director;
+(c)shalltakeallprecautions necessary toensurethattheelectronic copiesof
+KYCrecordsarenotlost,destroyed ortampered withandthatsufficient
+backupofelectronic recordsareavailable atalltimesatanalternative
+safeandsecureplace;
+(d)shallcauseanannualauditofitscontrols, systems, procedures and
+safeguards andshallundertake corrective actionsfordeficiencies, if
+any;
+(e)shallprovide information onlytothereporting entities whichare
+registered withitonpayment offeesasspecified bytheRegulator;
+1.Ins.byG.5.R.538(E),dated1stJune,2017(w.e.f.1-6-2017).
+2.Ins.byG.S.R.1300(E), dated16thOctober, 2017(w.e.f.16-10-2017)
+3.Ins.byG.S.R.544(E),dated7thJuly,2015(w.e.f.7-7-2015).
+4.Subs.byG.5.R.882(E),dated18thNovember, 2015,for"ninety days"(w.e.f.18-11-2015).
+Earlierthewords"ninetydays"weresubstituted byG.5.R.693(E),dated11thSeptember,
+2015(w.e.f.11-9-2015).
+82N ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules.2005[Rule9A
+(f)shallappointacomrliance officerwhoshallberesponsible formonitoring
+thecompliance 0theAct,therulesmadeandthenotifications
+issuedthereunder andalsotheguidelines andinstructions issuedbXtheCentralGovernment andtheRegulator andforredressal ofClients
+grievances; thecompliance officershallimmediately andindependently
+reporttotheCentral Government anynon-compliance observed by
+him;
+(g)theRegulator inconsultation withtheCentral Govermnent andthe
+CentralKYCRecords Registry mayissueguidelines tobefollowed by
+thereporting entitiesforfilingtheKYCrecordswiththeCentralKYC
+Records Registry oranyothermatterinconnection withorincidental
+thereto;
+(h)theCentral Government, inconsultation withRegulator, mayby
+notification inthepublicinterest andintheinterest oftheregulated
+entities, directthatanyoftheprovisions ofrule9orrule9A-
+(i)shallnotapplytoaclassorClassesofregulated entities; or
+(ii)shallapplytotheclassorClassesofregulated entitieswithsuch
+exceptions, modifications andadaptations asmaybespecified inthe
+notification. ]
+1[9B.Inspection byReserve BankofIndia.-(l) TheReserve Bankmay,
+withrespecttofunctions oftheCentralRegistry referred toinrule9A,callfor
+anyinformation, statement orotherparticulars fromtheCentral Registry or
+causeaninspection oftheCentralRegistry tobemadebyoneormoreofits
+officersastheReserve Bankmaydeemfit.
+(2)TheReserve BankshallsupplytotheCentralRegistry, acopyofthe
+reportofsuchinspection.
+(3)Itshallbethedutyofeverydirectororofficeroremployee oftheCentral
+Registry toproduce beforetheofficermakinganinspection undersub-section
+(1)allsuchbooks,accounts andotherdocuments inhiscustody andtofurnish
+himwithanystatement andinformation relating totheaffairsoftheCentral
+Registry, asthesaidofficermayrequireofhim.
+(4)Theexpenses oftheinspection undersub-rule (1)shallbebornebythe
+CentralRegistry.]' I
+2[10.Maintenance oftherecords oftheidentity ofclients.-3[(1) Every
+reporting entityshallmaintain thephysical copyofrecordsoftheidentity of
+1.Ins.byG.5.R.347(E),dated12thApril,2017(w.e.f.12-4-2017).
+2.Subs.byG.S.R.576(E),dated27thAugust, 2013,forrule10(w.e.f.27-8-2013). Earlierrule10
+wasamended G.5.R.717(E),dated13thDecember, 2005(w.e.f.13-12-2005), byG.5.R.816(E),
+dated12thNovember, 2009(w.e.f.12-11-2009) andbyG.S.R.508(E),dated16thJune,2010
+(w.e.f.16-6-2010). Rule10;beforesubstitution byG.5.R.576(E),dated27thAugust, 2013,stood
+asunder:
+"It).Maintenance oftherecordsoftheidentityofclients.-(l) Everybanking company or
+financial institution orintermediary, asthecasemaybe,shallmaintain therecordsofthe
+identity ofitsclients. .
+(2)Therecordsoftheidentity ofclientsshallbemaintained inhardandsoftcopiesin
+amannerasmaybespecified byitsRegulator, fromtimetotime.
+(3)Therecordsoftheidentity ofclientsshallbemaintained foraperiodoftenyears
+fromthedateofcessation ofthetransactions between theclientandthebanking company
+orfinancial institution orintermediary, asthecasemaybe.
+Explanation.-For thepurposes ofthisrule,-
+(i)theexpression 'records oftheidentity ofclients'shallinclude records ofthe
+identification data,account filesandbusiness correspondence.
+(ii)theexpression 'cessation ofthetransactions' meanstermination ofanaccount or
+business relationship.",
+3.Subs.byG.5.R.544(E),dated7thJuly,2015,sub-rule (1)(w.e.f.7-7-2015). Sub-rule (1),before
+substitution, stoodasunder:
+"(I)Everyreporting entityshallmaintain therecords oftheidentity ofitsclients
+obtained inaccordance withrule9.".
+Rule11) ThePrevention ofMoney-laundering (Maintenance ofRecords)
+Rules,200583
+itsclientsobtained inaccordance withrule9,afterfilingtheelectronic copyof
+suchrecordswiththeCentralKYCRecords Registry.]
+1[(2)Therecordsoftheidentity ofclientsshallbemaintained byareporting
+entityinthemannerasmaybespecified bytheRegulator fromtimetotime.]
+•(3)Wherethereporting entitydoesnothaverecordsoftheidentity ofits
+existing clients,itshallobtaintherecordswithintheperiodspecified bythe
+regulator, failingwhichthereporting entityshallclosetheaccountoftheclients
+aftergivingduenoticetotheclient.
+Explanation.-For thepurpose ofthisrule,theexpression "records ofthe
+identity ofclients" shallinclude updated records oftheidentification date,
+accountfilesandbusiness correspondence.]
+2[lOA.Furnishing ofReporttoDirector.-(l) Thepersons referred toin
+clause(c)ofsub-section (2)ofsection13oftheActshallfurnishreportsonthe
+measures takentotheDirector everymonthbythe10thdayofthesucceeding
+month.
+(2)TheDirector mayrelaxthetimeinterval insub-rule (1)aboveto
+everythreemonthsonspecificrequestmadebythereporting entitybasedon
+reasonable cause.]
+2[lOB. Expenses foraudit.-(l) Theexpenses of,andincidental to,
+auditreferred toinsub-section (lA)ofsection13oftheAct(including the
+remuneration oftheaccountant, qualified assistants, semi-qualified andother
+assistants whomaybeengaged bysuchaccountant) shallbepaidinaccordance
+withtheamount specified insub-rule (2)ofrule14BoftheIncome-tax Rules,
+1962foreveryhouroftheperiodasspecified bytheDirector.
+(2)Theperiodreferred toinsub-rule (1)shallbespecified intermsofthe.
+number ofhoursrequired forcompleting \hereport.
+(3)Theaccountant referred toinsub-section (lA)ofsection13oftheAct
+shallmaintain atimesheetandsubmitittotheDirector, alongwiththebill.
+(4)TheDirector shallensurethatthenumber ofhoursclaimed forbilling
+purposes iscommensurate withthesizeandqualityofthereportsubmitted
+bytheaccountant.]
+11.Interpretation.-If anyquestion arisesrelating totheinterpretation of
+theserules,themattershallbereferred totheCentral Government andthe
+decision oftheCentralGovernment shallbefinal.
+1.Subs.byG.5.R.544(E),dated7thJuly,2015,forsub-rule (2)(w.e.f.7-7-2015). Sub-rule (2),
+beforesubstitution, stoodasunder:
+"(2)Therecordsoftheidentity ofclientsshallbemaintained inamanner asmaybe
+specified byitsregulators fromtimetotime.".
+2.Ins.byG.5.R.576(E),dated27thAugust, 2013(w.e.f.27-8-2013).
