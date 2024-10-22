@@ -3,6 +3,7 @@ from bson.objectid import ObjectId
 import config  # Assuming you have the MongoDB connection details in config.py
 import datetime
 import pytz
+import os
 
 class MongoDBHandler:
     def __init__(self, mongo_db_uri=config.MONGODB_URI, db_name=config.DATABASE_NAME, collection_name=config.COLLECTION_NAME):
@@ -10,10 +11,16 @@ class MongoDBHandler:
         self.client = MongoClient(mongo_db_uri)
         self.db = self.client[db_name]
         self.collection = self.db[collection_name]
+        
 
     def insert_summary_with_keywords(self, summary, keywords, file_name, metadata):
         try:
-            #Adjust time zone and format
+            # Check if the document already exists based on file_name
+            if self.check_document_exists({"file_name": os.path.basename(file_name)}):
+                print(f"File with name '{file_name}' already exists in the database.")
+                return None
+
+            # Adjust time zone and format
             ist_timezone = pytz.timezone('Asia/Kolkata')
             ist_time = datetime.datetime.now(ist_timezone)
             formatted_ist_time = ist_time.strftime("%Y-%m-%d %H:%M:%S")
@@ -22,8 +29,8 @@ class MongoDBHandler:
                 "summary": summary,
                 "keywords": keywords,
                 "created_at": formatted_ist_time,
-                "file_name":file_name,
-                "metadata":metadata
+                "file_name": os.path.basename(file_name),
+                "metadata": metadata
             }
             result = self.collection.insert_one(summary_data)
             return str(result.inserted_id)
