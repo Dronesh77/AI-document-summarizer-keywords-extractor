@@ -41,7 +41,11 @@ def main():
 
     if uploaded_files:
         # Create a temporary directory to store uploaded files
-        temp_dir = '/tmp/'
+        temp_dir = '/tmp/'  # Use the manually created /tmp/ directory
+
+        # Ensure the directory exists
+        os.makedirs(temp_dir, exist_ok=True)
+
         file_paths = []
 
         # Ensure the directory exists
