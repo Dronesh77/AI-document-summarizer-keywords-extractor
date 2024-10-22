@@ -11,7 +11,7 @@ class MongoDBHandler:
         self.client = MongoClient(mongo_db_uri)
         self.db = self.client[db_name]
         self.collection = self.db[collection_name]
-        
+
 
     def insert_summary_with_keywords(self, summary, keywords, file_name, metadata):
         try:
@@ -33,6 +33,7 @@ class MongoDBHandler:
                 "metadata": metadata
             }
             result = self.collection.insert_one(summary_data)
+            print("Successfully inserted in databse")
             return str(result.inserted_id)
         except Exception as e:
             print(f"Error inserting summary: {e}")
