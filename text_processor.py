@@ -2,8 +2,10 @@ import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import Counter
 from heapq import nlargest
+from spacy.cli import download
 
 # Load spaCy English model
+download('en_core_web_sm')
 nlp = spacy.load('en_core_web_sm')
 
 def clean_text(text):
