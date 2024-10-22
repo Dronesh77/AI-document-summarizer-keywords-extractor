@@ -73,7 +73,7 @@ def main():
                         st.write(f"**Summary ID (in MongoDB)**: {summary_id}")
                         st.write(f"**Metadata**: {metadata}")
                     else:
-                        st.error(f"Failed to process {pdf_file}")
+                        st.error(f"Failed to process {pdf_path}")
                 st.success("Processing completed!")
 
     else:

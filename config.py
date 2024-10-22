@@ -2,6 +2,7 @@ import os
 
 # MongoDB Configuration
 MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://dronesh_magare:Mark77@mon@35.160.120.126:27017/mydatabase")  # Change to your MongoDB URI
+# MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://localhost:27017")  # Change to your MongoDB URI
 DATABASE_NAME = os.getenv("DATABASE_NAME", "PDF_Summary")  # MongoDB database name
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "processed_pdfs")  # MongoDB collection name
 
