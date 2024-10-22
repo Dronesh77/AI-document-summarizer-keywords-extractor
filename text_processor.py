@@ -2,11 +2,16 @@ import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import Counter
 from heapq import nlargest
-from spacy.cli import download
+import subprocess
 
 # Load spaCy English model
-download('en_core_web_sm')
-nlp = spacy.load('en_core_web_sm')
+try:
+    nlp = spacy.load('en_core_web_sm')
+except OSError:
+    print("Model 'en_core_web_sm' not found. Downloading...")
+    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load('en_core_web_sm')
+
 
 def clean_text(text):
     """
