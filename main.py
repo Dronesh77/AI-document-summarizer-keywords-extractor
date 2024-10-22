@@ -1,7 +1,61 @@
+# import os
+# from concurrency_manager import ConcurrencyManager
+# import logging
+
+# # Configure logging
+# log_file_path = 'Y:/AI_Internship_Task_Wasserstoff/logs/process.log'
+# os.makedirs(os.path.dirname(log_file_path), exist_ok=True)  # Create directory if it doesn't exist
+
+# logging.basicConfig(
+#     filename=log_file_path,
+#     level=logging.INFO,
+#     format='%(asctime)s - %(levelname)s - %(message)s'
+# )
+
+# def log_info(message):
+#     logging.info(message)
+#     print(message)  # Print to console as well
+
+# def log_error(message):
+#     logging.error(message)
+#     print(message)  # Print to console as well
+
+
+# def main():
+#     # Define paths
+#     pdf_directory = "Y:/AI_Internship_Task_Wasserstoff/dataset"  # Path to your PDF files
+#     output_directory = "Y:/AI_Internship_Task_Wasserstoff/output"  # Path to your PDF files
+
+#     # Initialize MongoDB handler
+
+#     # Initialize Concurrency Manager
+#     manager = ConcurrencyManager(pdf_directory,output_directory)
+
+#     # Process all PDFs
+#     results = manager.process_all_pdfs()
+
+#     # Save results to MongoDB
+#     for result in results:
+#         if result is not None:  # Ensure result is valid
+#             pdf_file = result['filename']
+#             keywords = result['keywords']
+#             summary_id = result['mongodb_id']
+#             metadata = result['metadata']
+
+#             print(f"Pdf File : {pdf_file}\nkeywords : {keywords}\nID : {summary_id}\nmetadata : {metadata}")
+
+# if __name__ == "__main__":
+#     main()
+
+
+
+# Integrated streamlit app
+############################################################################################################################################
 import os
+import streamlit as st
 from concurrency_manager import ConcurrencyManager
 import logging
-import streamlit as st
+import tempfile
 
 # Configure logging
 log_file_path = 'Y:/AI_Internship_Task_Wasserstoff/logs/process.log'
@@ -15,35 +69,74 @@ logging.basicConfig(
 
 def log_info(message):
     logging.info(message)
-    print(message)  # Print to console as well
+    st.write(message)  # Display in Streamlit
 
 def log_error(message):
     logging.error(message)
-    print(message)  # Print to console as well
+    st.error(message)  # Display error in Streamlit
 
+def save_uploaded_file(uploadedfile, directory):
+    """
+    Save an uploaded file to a directory.
+    """
+    file_path = os.path.join(directory, uploadedfile.name)
+    with open(file_path, 'wb') as f:
+        f.write(uploadedfile.getbuffer())
+    return file_path
 
 def main():
-    # Define paths
-    pdf_directory = "Y:/AI_Internship_Task_Wasserstoff/dataset"  # Path to your PDF files
-    output_directory = "Y:/AI_Internship_Task_Wasserstoff/output"  # Path to your PDF files
+    st.title("PDF Metadata Extraction App")
 
-    # Initialize MongoDB handler
+    # Input: File uploader to simulate folder upload (multiple files)
+    uploaded_files = st.file_uploader("Upload PDFs from Folder", type=["pdf"], accept_multiple_files=True)
 
-    # Initialize Concurrency Manager
-    manager = ConcurrencyManager(pdf_directory,output_directory)
+    if uploaded_files:
+        # Create a temporary directory to store uploaded files
+        with tempfile.TemporaryDirectory() as temp_dir:
+            file_paths = []
+            
+            # Save each uploaded file to the temporary directory
+            for uploaded_file in uploaded_files:
+                file_path = save_uploaded_file(uploaded_file, temp_dir)
+                log_info(f"Saved file: {file_path}")
+                file_paths.append(file_path)
 
-    # Process all PDFs
-    results = manager.process_all_pdfs()
+            # Output directory for processing
+            output_directory = "Y:/AI_Internship_Task_Wasserstoff/output"
+            os.makedirs(output_directory, exist_ok=True)
 
-    # Save results to MongoDB
-    for result in results:
-        if result is not None:  # Ensure result is valid
-            pdf_file = result['filename']
-            keywords = result['keywords']
-            summary_id = result['mongodb_id']
-            metadata = result['metadata']
+            # Initialize Concurrency Manager
+            manager = ConcurrencyManager(temp_dir, output_directory)
 
-            print(f"Pdf File : {pdf_file}\nkeywords : {keywords}\nID : {summary_id}\nmetadata : {metadata}")
+            if st.button('Process PDFs'):
+                # Process each uploaded PDF individually using manager.process_pdf
+                log_info("Processing started...")
+                for pdf_file in file_paths:
+                    result = manager.process_pdf(pdf_file)  # Process each PDF
+                    if result:
+                        # Extract results for each PDF
+                        pdf_file_name = os.path.basename(result['filename'])
+                        keywords = result['keywords']
+                        summary_id = result['mongodb_id']
+                        metadata = result['metadata']
+                        summary = result['summary']  # Assuming you have 'summary' in your result
+
+                        # Display results in Streamlit
+                        st.write(f"### PDF File: {pdf_file_name}")
+                        st.write(f"**Keywords**: {', '.join(keywords)}")
+                        st.write(f"**Summary**: {summary}")
+                        st.write(f"**Summary ID (in MongoDB)**: {summary_id}")
+                        st.write(f"**Metadata**: {metadata}")
+                    else:
+                        st.error(f"Failed to process {pdf_file}")
+                st.success("Processing completed!")
+
+    else:
+        st.info("Please upload PDF files from the folder to process.")
 
 if __name__ == "__main__":
     main()
+
+
+
+
