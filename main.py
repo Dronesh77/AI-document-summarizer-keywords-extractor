@@ -56,8 +56,8 @@ def main():
             if st.button('Process PDFs'):
                 # Process each uploaded PDF individually using manager.process_pdf
                 log_info("Processing started...")
-                for pdf_file in file_paths:
-                    result = manager.process_pdf(pdf_file)  # Process each PDF
+                for pdf_path in file_paths:
+                    result = manager.process_pdf(pdf_path)  # Process each PDF
                     if result:
                         # Extract results for each PDF
                         pdf_file_name = os.path.basename(result['filename'])

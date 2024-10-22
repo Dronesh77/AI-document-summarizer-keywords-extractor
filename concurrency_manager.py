@@ -16,21 +16,20 @@ class ConcurrencyManager:
     def __init__(self, pdf_directory):
         self.pdf_directory = pdf_directory
 
-    def process_pdf(self, pdf_file):
+    def process_pdf(self, pdf_path):
         """Process a single PDF file and return its summary."""
 
         try:
             db_handler = MongoDBHandler()
-            query = {"file_name": pdf_file}
+            query = {"file_name": pdf_path}
 
             if db_handler.check_document_exists(query):
                 return None
             else:
 
-                print(f"Processing {pdf_file}...")
+                print(f"Processing {pdf_path}...")
 
                 # Extract text from the PDF file using pdf_processor
-                pdf_path = os.path.join(self.pdf_directory, pdf_file)
                 extracted_text = pdf_processor.extract_text_from_pdf(pdf_path)
 
                 if extracted_text:
@@ -46,12 +45,12 @@ class ConcurrencyManager:
 
                     metadata = utils.get_file_metadata(pdf_path)
 
-                    summary_id = db_handler.insert_summary_with_keywords(summary, keywords, pdf_file,metadata)
+                    summary_id = db_handler.insert_summary_with_keywords(summary, keywords, pdf_path,metadata)
 
 
                     # Return the summary (instead of saving the full text)
                     return {
-                        "filename": pdf_file,
+                        "filename": pdf_path,
                         "summary": summary,
                         "keywords":keywords,
                         "mongodb_id":summary_id,
@@ -59,11 +58,11 @@ class ConcurrencyManager:
                     }
                 
                 else:
-                    print(f"Failed to extract text from {pdf_file}.")
+                    print(f"Failed to extract text from {pdf_path}.")
                     return None
             
         except Exception as e:
-            print(f"Error processing {pdf_file}: {e}")
+            print(f"Error processing {pdf_path}: {e}")
             return None
 
     # def process_all_pdfs(self):
