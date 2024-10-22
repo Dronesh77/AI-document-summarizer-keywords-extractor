@@ -4,7 +4,7 @@ import os
 import streamlit as st
 from concurrency_manager import ConcurrencyManager
 import logging
-import tempfile
+# import tempfile
 
 # Configure logging
 log_file_path = 'Y:/AI_Internship_Task_Wasserstoff/logs/process.log'
@@ -41,14 +41,17 @@ def main():
 
     if uploaded_files:
         # Create a temporary directory to store uploaded files
-        with tempfile.TemporaryDirectory() as temp_dir:
-            file_paths = []
+        temp_dir = '/tmp/'
+        file_paths = []
+
+        # Ensure the directory exists
+        os.makedirs(temp_dir, exist_ok=True)
             
-            # Save each uploaded file to the temporary directory
-            for uploaded_file in uploaded_files:
-                file_path = save_uploaded_file(uploaded_file, temp_dir)
-                log_info(f"Saved file: {file_path}")
-                file_paths.append(file_path)
+        # Save each uploaded file to the temporary directory
+        for uploaded_file in uploaded_files:
+            file_path = save_uploaded_file(uploaded_file, temp_dir)
+            log_info(f"Saved file: {file_path}")
+            file_paths.append(file_path)
 
             # Initialize Concurrency Manager
             manager = ConcurrencyManager(temp_dir)
