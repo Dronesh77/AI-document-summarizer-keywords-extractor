@@ -3,27 +3,54 @@ import PyPDF2
 from utils import log_info, log_error, is_pdf, get_file_metadata
 
 # Function to extract text from a single PDF
-def extract_text_from_pdf(pdf_path):
-    """
-    Extracts text from a PDF file.
-    :param pdf_path: Path to the PDF file.
-    :return: Extracted text as a string, or None if an error occurs.
-    """
-    if not is_pdf(pdf_path):
-        log_error(f"File {pdf_path} is not a valid PDF.")
-        return None
+# def extract_text_from_pdf(pdf_path):
+    # """
+    # Extracts text from a PDF file.
+    # :param pdf_path: Path to the PDF file.
+    # :return: Extracted text as a string, or None if an error occurs.
+    # """
+    # if not is_pdf(pdf_path):
+    #     log_error(f"File {pdf_path} is not a valid PDF.")
+    #     return None
 
-    try:
-        with open(pdf_path, 'rb') as pdf_file:
-            reader = PyPDF2.PdfReader(pdf_file)
-            text = ""
-            for page_num in range(len(reader.pages)):
-                text += reader.pages[page_num].extract_text()
-            log_info(f"Successfully extracted text from {pdf_path}.")
-            return text
-    except Exception as e:
-        log_error(f"Error extracting text from {pdf_path}: {str(e)}")
-        return None
+    # try:
+    #     with open(pdf_path, 'rb') as pdf_file:
+    #         reader = PyPDF2.PdfReader(pdf_file)
+    #         text = ""
+    #         for page_num in range(len(reader.pages)):
+    #             text += reader.pages[page_num].extract_text()
+    #         log_info(f"Successfully extracted text from {pdf_path}.")
+    #         return text
+    # except Exception as e:
+    #     log_error(f"Error extracting text from {pdf_path}: {str(e)}")
+    #     return None
+
+
+
+def extract_text_from_pdf(file):
+    # Create a PDF reader object
+    pdf_reader = PyPDF2.PdfReader(file)
+    text = ""
+    # Iterate through the pages and extract text
+    for page in pdf_reader.pages:
+        text += page.extract_text() + "\n"
+    return text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Function to process a directory of PDFs
 # def process_pdf_directory(directory_path, output_dir):
