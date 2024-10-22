@@ -13,9 +13,8 @@ import utils
 nltk.download('punkt_tab')
 
 class ConcurrencyManager:
-    def __init__(self, pdf_directory,output_directory):
+    def __init__(self, pdf_directory):
         self.pdf_directory = pdf_directory
-        self.output_directory = output_directory
 
     def process_pdf(self, pdf_file):
         """Process a single PDF file and return its summary."""
@@ -67,23 +66,23 @@ class ConcurrencyManager:
             print(f"Error processing {pdf_file}: {e}")
             return None
 
-    def process_all_pdfs(self):
+    # def process_all_pdfs(self):
 
-        try:
+    #     try:
 
-            """Process all PDF files in the specified directory concurrently."""
-            pdf_files = [f for f in os.listdir(self.pdf_directory) if f.endswith('.pdf')]
-            print(f"Found PDF files: {pdf_files}")
+    #         """Process all PDF files in the specified directory concurrently."""
+    #         pdf_files = [f for f in os.listdir(self.pdf_directory) if f.endswith('.pdf')]
+    #         print(f"Found PDF files: {pdf_files}")
             
-            if not pdf_files:
-                print("No PDF files found in the directory.")
-                return []
+    #         if not pdf_files:
+    #             print("No PDF files found in the directory.")
+    #             return []
 
-            with concurrent.futures.ThreadPoolExecutor() as executor:
-                # This will pass each file name to the process_pdf method
-                results = list(executor.map(self.process_pdf, pdf_files))
+    #         with concurrent.futures.ThreadPoolExecutor() as executor:
+    #             # This will pass each file name to the process_pdf method
+    #             results = list(executor.map(self.process_pdf, pdf_files))
 
-            return results
+    #         return results
         
 
         except:

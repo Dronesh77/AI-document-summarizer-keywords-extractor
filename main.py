@@ -50,12 +50,8 @@ def main():
                 log_info(f"Saved file: {file_path}")
                 file_paths.append(file_path)
 
-            # Output directory for processing
-            output_directory = "Y:/AI_Internship_Task_Wasserstoff/output"
-            os.makedirs(output_directory, exist_ok=True)
-
             # Initialize Concurrency Manager
-            manager = ConcurrencyManager(temp_dir, output_directory)
+            manager = ConcurrencyManager(temp_dir)
 
             if st.button('Process PDFs'):
                 # Process each uploaded PDF individually using manager.process_pdf

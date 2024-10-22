@@ -26,35 +26,35 @@ def extract_text_from_pdf(pdf_path):
         return None
 
 # Function to process a directory of PDFs
-def process_pdf_directory(directory_path, output_dir):
-    """
-    Processes all PDFs in a directory, extracts text, and saves the results.
-    :param directory_path: Directory containing PDF files.
-    :param output_dir: Directory where extracted text files will be saved.
-    """
-    if not os.path.exists(directory_path):
-        log_error(f"Directory {directory_path} does not exist.")
-        return
+# def process_pdf_directory(directory_path, output_dir):
+#     """
+#     Processes all PDFs in a directory, extracts text, and saves the results.
+#     :param directory_path: Directory containing PDF files.
+#     :param output_dir: Directory where extracted text files will be saved.
+#     """
+#     if not os.path.exists(directory_path):
+#         log_error(f"Directory {directory_path} does not exist.")
+#         return
 
-    # Create output directory if not exists
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+#     # Create output directory if not exists
+#     if not os.path.exists(output_dir):
+#         os.makedirs(output_dir)
 
-    for filename in os.listdir(directory_path):
-        file_path = os.path.join(directory_path, filename)
-        if is_pdf(file_path):
-            # Extract text from the PDF
-            extracted_text = extract_text_from_pdf(file_path)
-            if extracted_text:
-                # Save the extracted text to a file
-                output_file = os.path.join(output_dir, f"{os.path.splitext(filename)[0]}.txt")
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    f.write(extracted_text)
-                log_info(f"Saved extracted text from {filename} to {output_file}.")
-            else:
-                log_error(f"Failed to extract text from {file_path}.")
-        else:
-            log_info(f"Skipping non-PDF file: {file_path}")
+#     for filename in os.listdir(directory_path):
+#         file_path = os.path.join(directory_path, filename)
+#         if is_pdf(file_path):
+#             # Extract text from the PDF
+#             extracted_text = extract_text_from_pdf(file_path)
+#             if extracted_text:
+#                 # Save the extracted text to a file
+#                 output_file = os.path.join(output_dir, f"{os.path.splitext(filename)[0]}.txt")
+#                 with open(output_file, 'w', encoding='utf-8') as f:
+#                     f.write(extracted_text)
+#                 log_info(f"Saved extracted text from {filename} to {output_file}.")
+#             else:
+#                 log_error(f"Failed to extract text from {file_path}.")
+#         else:
+#             log_info(f"Skipping non-PDF file: {file_path}")
 
 # # Example usage
 # if __name__ == "__main__":
