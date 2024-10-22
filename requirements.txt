@@ -11,3 +11,4 @@ streamlit
 thinc>=8.1.8
 cython>=0.29.32
 spacy>=3.5.0
+gunicorn
