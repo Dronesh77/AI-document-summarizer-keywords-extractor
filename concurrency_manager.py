@@ -32,7 +32,7 @@ class ConcurrencyManager:
                 keywords = text_processor.extract_keywords_tfidf(corpus)
 
                 metadata = utils.get_file_metadata(file)
-                return metadata
+            
                 db_handler = MongoDBHandler()
                 summary_id = db_handler.insert_summary_with_keywords(summary, keywords, file ,metadata) 
                 

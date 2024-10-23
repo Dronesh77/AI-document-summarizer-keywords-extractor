@@ -35,8 +35,8 @@ class MongoDBHandler:
             print("Successfully inserted in databse")
             return str(result.inserted_id)
         except Exception as e:
-            print(f"Error inserting summary: {e}")
-            return None
+            return "Error inserting summary: {e}"
+            
         
 
 
