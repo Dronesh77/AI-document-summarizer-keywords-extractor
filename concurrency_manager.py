@@ -14,10 +14,8 @@ class ConcurrencyManager:
         """Process a single PDF file and return its summary."""
 
         try:
-
             # Extract text from the PDF file using pdf_processor
             extracted_text = pdf_processor.extract_text_from_pdf(file)
-
 
             if extracted_text:
                 # Tokenize the extracted text into sentences

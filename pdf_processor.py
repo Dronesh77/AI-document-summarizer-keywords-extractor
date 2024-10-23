@@ -20,7 +20,7 @@ def extract_text_from_pdf(pdf_file):
         return text
         
     except Exception as e:
-        return f"Error processing PDF: {str(e)}"
+        return None
 
 
 
