@@ -1,10 +1,13 @@
 import os
 
 # MongoDB Configuration
-# MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://dronesh_magare:Mark77%40mon@35.160.120.126:27017/PDF_Summary")  # MongoDB URI for render deployment
-MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://localhost:27017")  # Mongo DB uri for local host
-DATABASE_NAME = os.getenv("DATABASE_NAME", "PDF_Summary")  # MongoDB database name
-COLLECTION_NAME = os.getenv("COLLECTION_NAME", "processed_pdfs")  # MongoDB collection name
+MONGODB_URI = "mongodb+srv://dmm12042002:gSgbhH2tNLdk96Sz@cluster0.qm25b.mongodb.net/"
+DATABASE_NAME = "PDF_Summary"
+COLLECTION_NAME = "processed_pdfs"
+
+# MONGODB_URI = os.getenv("MONGODB_URI")  # Mongo DB uri for local host
+# DATABASE_NAME = os.getenv("DATABASE_NAME")  # MongoDB database name
+# COLLECTION_NAME = os.getenv("COLLECTION_NAME")  # MongoDB collection name
 
 # PDF Ingestion Configuration
 PDF_FOLDER_PATH = os.path.join(os.path.expanduser("~"), "AI_Internship_Task_Wasserstoff", "dataset")  # Change this path if needed

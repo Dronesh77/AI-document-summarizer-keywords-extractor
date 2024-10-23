@@ -3,7 +3,6 @@ from bson.objectid import ObjectId
 import config  
 import datetime
 import pytz
-import os
 
 class MongoDBHandler:
     def __init__(self, mongo_db_uri=config.MONGODB_URI, db_name=config.DATABASE_NAME, collection_name=config.COLLECTION_NAME):
