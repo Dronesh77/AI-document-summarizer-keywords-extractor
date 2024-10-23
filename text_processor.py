@@ -2,7 +2,7 @@ import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import Counter
 from heapq import nlargest
-from spacy.cli import download
+import spacy.cli
 
 # Load spaCy English model
 
