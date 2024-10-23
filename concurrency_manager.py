@@ -19,7 +19,7 @@ class ConcurrencyManager:
             extracted_text = pdf_processor.extract_text_from_pdf(file)
 
             return{
-                "Extracted text": extracted_text;
+                "Extracted text": extracted_text
             }
 
             if extracted_text:
