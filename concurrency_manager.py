@@ -5,6 +5,7 @@ from nltk.tokenize import sent_tokenize
 import logging
 import traceback
 import utils
+import PyPDF2 as pdf
 
 
 
@@ -16,6 +17,10 @@ class ConcurrencyManager:
         try:
             # Extract text from the PDF file using pdf_processor
             extracted_text = pdf_processor.extract_text_from_pdf(file)
+
+            return{
+                "Extracted text": extracted_text;
+            }
 
             if extracted_text:
                 # Tokenize the extracted text into sentences
