@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 from bson.objectid import ObjectId
-import config  # Assuming you have the MongoDB connection details in config.py
+import config  
 import datetime
 import pytz
 import os
@@ -13,12 +13,11 @@ class MongoDBHandler:
         self.collection = self.db[collection_name]
 
 
-    def insert_summary_with_keywords(self, summary, keywords, file_name, metadata):
+    def insert_summary_with_keywords(self, summary, keywords, file, metadata):
         try:
             # Check if the document already exists based on file_name
-            if self.check_document_exists({"file_name": os.path.basename(file_name)}):
-                print(f"File with name '{file_name}' already exists in the database.")
-                return None
+            if self.check_document_exists({"filename" : file.name}):
+                return f"File with name '{file.name}' already exists in the database."
 
             # Adjust time zone and format
             ist_timezone = pytz.timezone('Asia/Kolkata')
@@ -26,10 +25,10 @@ class MongoDBHandler:
             formatted_ist_time = ist_time.strftime("%Y-%m-%d %H:%M:%S")
 
             summary_data = {
+                "filename":file.name,
                 "summary": summary,
                 "keywords": keywords,
                 "created_at": formatted_ist_time,
-                "file_name": os.path.basename(file_name),
                 "metadata": metadata
             }
             result = self.collection.insert_one(summary_data)
@@ -92,25 +91,3 @@ class MongoDBHandler:
         """Close the MongoDB connection."""
         self.client.close()
 
-# # Example usage:
-# if __name__ == "__main__":
-#     db_handler = MongoDBHandler()
-    
-#     # Example summary to insert
-#     summary_data = {
-#         "title": "Sample PDF Title",
-#         "summary": "This is a summary of the PDF content.",
-#         "keywords": ["sample", "pdf", "summary"],
-#         "created_at": "2024-10-19"
-#     }
-    
-#     # Insert a summary
-#     inserted_id = db_handler.insert_summary(summary_data)
-#     print(f"Inserted summary ID: {inserted_id}")
-    
-#     # Retrieve the summary
-#     retrieved_summary = db_handler.get_summary(inserted_id)
-#     print("Retrieved summary:", retrieved_summary)
-
-#     # Close the connection
-#     db_handler.close_connection()

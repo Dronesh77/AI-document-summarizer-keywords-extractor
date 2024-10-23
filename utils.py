@@ -69,21 +69,20 @@ def get_timestamp():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 # Utility function to get file metadata
-def get_file_metadata(file_path):
+def get_file_metadata(file):
     """
     Retrieves basic metadata for a file (name, size, path).
     :param file_path: Path to the file.
     :return: Metadata dictionary.
     """
     try:
-        file_name = os.path.basename(file_path)
-        file_size = os.path.getsize(file_path)
+        file_name = file.name
+        file_size = file.size
         return {
             'file_name': file_name,
-            'file_path': file_path,
             'file_size': file_size,
             'processed_time': get_timestamp()
         }
     except Exception as e:
-        handle_error(file_path, str(e))
+        handle_error(file, str(e))
         return None

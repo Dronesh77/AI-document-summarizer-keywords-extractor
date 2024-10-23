@@ -59,7 +59,7 @@ def summarize_text(text, max_sentences=3):
     summary_sentences = nlargest(max_sentences, sentence_scores, key=sentence_scores.get)
     return ' '.join([sent.text for sent in summary_sentences])
 
-def extract_keywords_tfidf(corpus, text, max_keywords=10):
+def extract_keywords_tfidf(corpus, max_keywords=10):
     """
     Extracts keywords using TF-IDF from a corpus.
     Args:
@@ -85,15 +85,3 @@ def extract_keywords_tfidf(corpus, text, max_keywords=10):
 
     return keywords
 
-# # Example usage
-# if __name__ == "__main__":
-#     text = "Your sample PDF text goes here."
-#     corpus = ["Some other document text here.", "More documents for the corpus."]
-
-#     # Summarize the text
-#     summary = summarize_text(text)
-#     print(f"Summary: {summary}")
-
-#     # Extract keywords using TF-IDF
-#     keywords = extract_keywords_tfidf(corpus, text)
-#     print(f"Keywords: {keywords}")
