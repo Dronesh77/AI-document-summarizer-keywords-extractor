@@ -5,13 +5,12 @@ from heapq import nlargest
 from spacy.cli import download
 
 # Load spaCy English model
-model_name = 'en_core_web_sm'
+
 try:
-    nlp = spacy.load(model_name)
+    nlp = spacy.load('en_core_web_sm')
 except OSError:
-    print(f"Model '{model_name}' not found. Downloading...")
-    download(model_name)
-    nlp = spacy.load(model_name)
+    spacy.cli.download('en_core_web_sm')
+    nlp = spacy.load('en_core_web_sm')
 
 
 def clean_text(text):
