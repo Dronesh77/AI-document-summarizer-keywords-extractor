@@ -18,9 +18,6 @@ class ConcurrencyManager:
             # Extract text from the PDF file using pdf_processor
             extracted_text = pdf_processor.extract_text_from_pdf(file)
 
-            return{
-                "Extracted text": extracted_text
-            }
 
             if extracted_text:
                 # Tokenize the extracted text into sentences
@@ -31,6 +28,9 @@ class ConcurrencyManager:
                 
                 # Generate the summary using text_processor
                 summary = text_processor.summarize_text(extracted_text)
+                return{
+                    "Summary": summary
+                }
                 
                 keywords = text_processor.extract_keywords_tfidf(corpus)
 
