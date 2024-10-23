@@ -23,13 +23,13 @@ class ConcurrencyManager:
 
                 # Create a corpus as a list of sentences
                 corpus = sentences  
+                return{
+                    "keywrods": corpus
+                }
                 # Generate the summary using text_processor
                 summary = text_processor.summarize_text(extracted_text)
                 
                 keywords = text_processor.extract_keywords_tfidf(corpus)
-                return{
-                    "keywrods": keywords
-                }
 
                 metadata = utils.get_file_metadata(file)
             
