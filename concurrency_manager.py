@@ -24,7 +24,7 @@ class ConcurrencyManager:
                 # Create a corpus as a list of sentences
                 corpus = sentences  
                 return{
-                    "keywrods": corpus
+                    "keywrods": extracted_text
                 }
                 # Generate the summary using text_processor
                 summary = text_processor.summarize_text(extracted_text)
