@@ -5,7 +5,6 @@ from nltk.tokenize import sent_tokenize
 import logging
 import traceback
 import utils
-import PyPDF2 as pdf
 
 
 
@@ -17,24 +16,20 @@ class ConcurrencyManager:
         try:
             # Extract text from the PDF file using pdf_processor
             extracted_text = pdf_processor.extract_text_from_pdf(file)
-
-
+            
             if extracted_text:
                 # Tokenize the extracted text into sentences
                 sentences = sent_tokenize(extracted_text)
-                return{
-                    "Sentences": sentences
-                }
 
                 # Create a corpus as a list of sentences
                 corpus = sentences  
                 # Generate the summary using text_processor
                 summary = text_processor.summarize_text(extracted_text)
-                return{
-                    "Summary": summary
-                }
                 
                 keywords = text_processor.extract_keywords_tfidf(corpus)
+                return{
+                    "keywrods": keywords
+                }
 
                 metadata = utils.get_file_metadata(file)
             
