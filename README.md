@@ -86,9 +86,9 @@ streamlit run main.py
         │      └── ....
         ├── main.py               # Entry point of the pipeline
         ├── pdf_processor.py      # Functions for parsing PDF content
-        ├── text_processing.py    # Functions for summarizing and extracting keywords
+        ├── text_processor.py    # Functions for summarizing and extracting keywords
         ├── mongodb_handler.py    # Functions for interacting with MongoDB
-        ├── concurrency_manager.py# Manages parallel processing
+        ├── concurrency_manager.py # Manages parallel processing
         ├── utils.py              # Utility functions (logging, error handling)
         ├── config.py             # Configuration settings (MongoDB, file paths, etc.)
         ├── requirements.txt      # List of dependencies
@@ -96,7 +96,7 @@ streamlit run main.py
 
 ```
 
-# Explanation of the silution
+# Explanation of the solution
 
 ## PDF Text Extraction (pdf_processor.py)
 This module uses the PyPDF2 library to extract raw text from PDF documents. It provides the following method:

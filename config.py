@@ -1,9 +1,9 @@
 import os
 
 # MongoDB Configuration
-MONGODB_URI = "mongodb+srv://dmm12042002:gSgbhH2tNLdk96Sz@cluster0.qm25b.mongodb.net/"        # For MongoDB Atlas
+# MONGODB_URI = "mongodb+srv://dmm12042002:gSgbhH2tNLdk96Sz@cluster0.qm25b.mongodb.net/"        # For MongoDB Atlas
 
-# MONGODB_URI = "mongodb://localhost:27017"        # For MongoDB Compass
+MONGODB_URI = "mongodb://localhost:27017"        # For MongoDB Compass
 DATABASE_NAME = "PDF_Summary"
 COLLECTION_NAME = "processed_pdfs"
 
