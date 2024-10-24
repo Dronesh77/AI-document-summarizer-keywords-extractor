@@ -19,13 +19,13 @@ class ConcurrencyManager:
             
             if extracted_text:
                 # Tokenize the extracted text into sentences
+                return{
+                    "keywrods": extracted_text
+                }
                 sentences = sent_tokenize(extracted_text)
 
                 # Create a corpus as a list of sentences
                 corpus = sentences  
-                return{
-                    "keywrods": extracted_text
-                }
                 # Generate the summary using text_processor
                 summary = text_processor.summarize_text(extracted_text)
                 
