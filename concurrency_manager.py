@@ -1,12 +1,19 @@
 import pdf_processor
 import text_processor  
 from mongodb_handler import MongoDBHandler
-from nltk.tokenize import sent_tokenize
+# from nltk.tokenize import sent_tokenize
 import logging
 import traceback
 import utils
 
 
+
+def create_paragraph_corpus(extracted_text):
+    # Split the text by newlines to get paragraphs
+    paragraphs = extracted_text.split('\n\n')
+    # Create a corpus as a list of paragraphs
+    corpus = [para.strip() for para in paragraphs if para.strip()]
+    return corpus
 
 class ConcurrencyManager:
 
@@ -19,13 +26,8 @@ class ConcurrencyManager:
             
             if extracted_text:
                 # Tokenize the extracted text into sentences
-                return{
-                    "keywrods": extracted_text
-                }
-                sentences = sent_tokenize(extracted_text)
-
-                # Create a corpus as a list of sentences
-                corpus = sentences  
+                corpus = create_paragraph_corpus(extracted_text)
+ 
                 # Generate the summary using text_processor
                 summary = text_processor.summarize_text(extracted_text)
                 
