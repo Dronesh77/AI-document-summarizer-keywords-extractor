@@ -38,7 +38,7 @@ To run this project, you will need:
 
 1. Clone the repository
 ```bash
-    git clone https://github.com/Dronesh77/dronesh-magare-wasserstoff-AiInternTask.git
+    git clone https://github.com/Dronesh77/AI-document-summarizer-keywords-extractor.git
     cd pdf-text-processor
 ```
 
