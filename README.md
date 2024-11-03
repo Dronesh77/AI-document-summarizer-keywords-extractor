@@ -1,5 +1,5 @@
 
-# Wasserstoff AI Intern Task
+# AI Document Summarizer and Keywords Extractor
 
 
 ## Project Overview
